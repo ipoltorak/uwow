@@ -1,0 +1,2 @@
+*.tsv text eol=lf
+*.lua text eol=lf

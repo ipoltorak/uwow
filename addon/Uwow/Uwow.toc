@@ -1,0 +1,49 @@
+## Interface: 120100, 120105
+## Title: Uwow — українська для World of Warcraft
+## Notes: Українська локалізація квестів, діалогів, інтерфейсу, предметів і заклять. /uw — оригінал або переклад.
+## Author: Uwow
+## Version: @VERSION@
+## X-License: MIT (код), CC BY 4.0 (переклади); частина назв — WowUkrainizer (MIT), див. LICENSE.md
+## SavedVariables: UwowDB, UwowMiss, UwowSettingsDB, UwowCaptureDB
+## X-Category: Localization
+## IconTexture: Interface\Icons\INV_Misc_Book_09
+
+Core.lua
+Norm.lua
+People.lua
+Fonts.lua
+Main.lua
+Spells.lua
+Surfaces\WorldKit.lua
+Surfaces\CharKit.lua
+Surfaces\CollKit.lua
+Surfaces\Quest.lua
+Surfaces\Gossip.lua
+Surfaces\Tooltip.lua
+Surfaces\Chat.lua
+Surfaces\UiPopup.lua
+Surfaces\UiErrors.lua
+Surfaces\UiHelp.lua
+Surfaces\UiMenu.lua
+Surfaces\UiOptions.lua
+Surfaces\WorldQuestLog.lua
+Surfaces\WorldTracker.lua
+Surfaces\WorldMap.lua
+Surfaces\WorldCinematic.lua
+Surfaces\WorldText.lua
+Surfaces\WorldChoice.lua
+Surfaces\WorldNpc.lua
+Surfaces\WorldDialogueUI.lua
+Surfaces\CharSpells.lua
+Surfaces\CharProfessions.lua
+Surfaces\CharItems.lua
+Surfaces\CharLooks.lua
+Surfaces\CharBags.lua
+Surfaces\CollAchievements.lua
+Surfaces\CollJournal.lua
+Surfaces\CollCollections.lua
+Surfaces\CollHousing.lua
+Surfaces\CollGarrison.lua
+Surfaces\UiFix.lua
+SelfTest.lua
+@DATA@
