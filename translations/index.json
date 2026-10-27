@@ -1,10 +1,10 @@
 {
- "version": "0.3.6",
+ "version": "0.3.7",
  "rows": {
   "ach": 27600,
   "collections": 23884,
   "currency": 1831,
-  "dialog": 94955,
+  "dialog": 96096,
   "faction": 1150,
   "item": 209043,
   "journal": 31079,
@@ -17,10 +17,10 @@
   "spell": 278222,
   "ui": 70754
  },
- "ua_chars": 61761801,
+ "ua_chars": 61800188,
  "glossary": 55200,
  "sources": {
-  "uwow": 1100368,
+  "uwow": 1101509,
   "wowukrainizer": 34360
  }
 }

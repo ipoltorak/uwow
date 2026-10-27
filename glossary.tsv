@@ -529,6 +529,7 @@ Page	Паж	npc
 Trader	Торговець	npc
 Wood	Деревина	other
 Sludge	Шлам	npc
+Arator	Аратор	npc
 Burrow	Закопування	spell
 Incense	Пахощі	npc
 The Damned	Проклятий	npc
@@ -536,7 +537,6 @@ Hellfire Citadel	Цитадель Пекельного Вогню	instance
 Lynx	Рись	npc
 the Chosen	Обранець	other
 Theramore	Терамор	zone
-Arator	Аратор	npc
 Preyseeker	Шукач Здобичі	other
 Fyrakk	Фіракк	npc
 Baron	Барон	npc
@@ -565,12 +565,12 @@ Grandmaster	Грандмайстер	other
 Serenity	Безтурботність	npc
 Tirisfal	Тірісфаль	zone
 Archon	Архонт	npc
+Ascended	Піднесені	other
 Mini	Міні	npc
 Tauren	Таурен	npc
 Trigger	Курок	npc
 Westfall	Західний край	zone
 Wildhammer	Вайлдгаммер	npc
-Ascended	Піднесені	other
 Siren	Сирена	npc
 The Hunt	Полювання	spell
 Thunderlord	Громовержець	spell
@@ -595,13 +595,13 @@ Rip	Розрив	spell
 Scarab	Скарабей	npc
 Snake	Змія	npc
 Transformation	Перетворення	npc
+Twilight's Blade	Клинок Сутінків	npc
 Ysera	Ізера	npc
 Bat	Кажан	npc
 Brutal Gladiator	Жорстокий гладіатор	other
 Healer	Цілитель	npc
 Loamm	Лоамм	zone
 Stratholme	Стратгольм	zone
-Twilight's Blade	Клинок Сутінків	npc
 Feralas	Фералас	zone
 Halazzi	Галаззі	npc
 Hands	Руки	npc
@@ -1334,6 +1334,7 @@ Quarry	Кар'єр	zone
 Runecarver	Різьбяр рун	npc
 Spellbreaker	Чаролам	spell
 Sunny	Сонечко	npc
+the Ascended	Піднесений	other
 Throw Glaive	Метання глефи	spell
 Training Dummy	Тренувальний манекен	npc
 Wetlands	Заболоття	zone
@@ -1345,7 +1346,6 @@ Kith'ix	Кіт'їкс	npc
 Maelstrom Weapon	Зброя Водоверті	spell
 Obliterate	Знищення	spell
 Ravenholdt	Рейвенголдт	faction
-the Ascended	Піднесений	other
 Tier 1	Рівень 1	item
 Transcendence	Трансцендентність	spell
 Burning Crusade	Палаючий хрестоносець	spell
