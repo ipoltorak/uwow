@@ -1,5 +1,5 @@
 {
- "version": "0.3.10",
+ "version": "0.3.11",
  "rows": {
   "ach": 27600,
   "collections": 23884,
@@ -11,16 +11,16 @@
   "mount": 3214,
   "names": 43720,
   "pet": 4247,
-  "quest": 162703,
+  "quest": 162723,
   "questui": 30041,
   "sdesc": 152392,
   "spell": 278222,
   "ui": 70754
  },
- "ua_chars": 61829383,
+ "ua_chars": 61834767,
  "glossary": 55200,
  "sources": {
-  "uwow": 1101616,
+  "uwow": 1101636,
   "wowukrainizer": 34360
  }
 }
