@@ -96095,3 +96095,701 @@ id	field	en	ua	source
 		Nothing gets in our way.	Ніщо не стане нам на заваді.	uwow
 		Is this really necessary? We need to keep on track.	Невже це справді потрібно? Нам треба триматися курсу.	uwow
 		Interlopers! Heretics!	Чужинці! Єретики!	uwow
+		You'll pay for that!	Ти за це заплатиш!	uwow
+		She's been slain? But how--look out!	Її вбито? Але як... Обережно!	uwow
+		We must be on the right track.	Ми на правильному шляху.	uwow
+		Keep your word, Decimus. Shut it down!	Дотримай слова, Дециме. Зупини це!	uwow
+		We must strike the head from the serpent. Slay the ascended leaders of the cult.	Треба відрубати змії голову. Убий вознесених очільників культу.	uwow
+		More will rise to take their place, but you have bought us time.	На їхнє місце стануть інші, але ти виграв$p(в:ла) нам час.	uwow
+		A few brave Wildhammer allies have fallen into the cult's grasp. Give them the means to escape.	Кілька хоробрих союзників із клану Вайлдгаммер потрапили в лабети культу. Дай їм змогу втекти.	uwow
+		Our allies are our strength. Thank you for freeing them.	Наші союзники — наша сила. Дякую, що ти визволи$p(в:ла) їх.	uwow
+		, next I suggest we journey to Light's Hope chapel, to gather relics of the paladin order.	, далі я пропоную вирушити до каплиці Надії Світла, щоб зібрати реліквії ордену паладинів.	uwow
+		The others have gathered at Lothar's statue. We'll tell you the story there.	Інші зібралися біля статуї Лотара. Там ми розповімо тобі цю історію.	uwow
+		Both my parents left me to fight on this battlefield. I lost decades I could have had with them.	Обоє моїх батьків полишили мене заради битви на цьому полі. Десятиліття, які ми могли б прожити разом, втрачено.	uwow
+		I'm glad to hear it. Now help me brace this beam before it slips.	Приємно це чути. Тепер допоможи мені підперти цю балку, поки вона не зісковзнула.	uwow
+		You were fated to fall here.	Тобі судилося впасти тут.	uwow
+		The Light is my shield.	Світло — мій щит.	uwow
+		I am sorry, loa speaker...	Мені шкода, мовцю лоа...	uwow
+		My strength is yours.	Моя сила — твоя.	uwow
+		Let the light protect us!	Хай Світло захистить нас!	uwow
+		Let the Light cleanse you!	Хай Світло очистить тебе!	uwow
+		The bay is clear! The rest of the ships can sail to safety!	Бухту звільнено! Решта кораблів може безпечно відпливати!	uwow
+		Arator, , thank you for your work. The Ebon Blade and I should be able to keep them back now.	Аратор, , дякую за допомогу. Ебонітовий Клинок і я тепер зможемо їх стримати.	uwow
+		Arator must have told his mother what happened at the Amani Pass. They are... discussing it.	Аратор, певно, розповів матері, що сталося на Аманському перевалі. Вони... обговорюють це.	uwow
+		My friends back in Stormwind are never going to believe this!	Мої друзі у Штормовій ніколи в це не повірять!	uwow
+		Turalyon has focused on breaking through their lines. Perhaps now he'll respond to these kidnappings?	Тураліон зосередився на прориві їхніх рядів. Можливо, тепер він відреагує на ці викрадення?	uwow
+		Thank you, {NAME}. The remnants of the Void have been repelled, for now.	Дякую, {p}. Рештки Порожнечі відбито — поки що.	uwow
+		This will set their operations back significantly. Superb effort, $n.	Це суттєво відкине їхні операції назад. Чудова робота, {p}.	uwow
+		Good work. I can smell the smoke from here.	Добра робота. Звідси я чую запах диму.	uwow
+		Excellent work. We've stopped their push into the swamp... for now.	Чудова робота. Ми зупинили їхній наступ на болото... поки що.	uwow
+		Mlurkkr Mire is being attacked by de Children of Ula'tek again. Destroy their forces.	Діти Ула'тека знову атакують Трясовину Млурккр. Знищ їхні війська.	uwow
+		De snakes are hatching faster than we can destroy them. Bring me fire.	Змії вилуплюються швидше, ніж ми встигаємо їх знищувати. Принеси мені вогонь.	uwow
+		Right between the eyes...	Прямо межи очі...	uwow
+		Something's not quite right...	Щось не так...	uwow
+		Stick to the shadows, $n.	Тримайся тіні, {p}.	uwow
+		Straight to the heart!	Прямо в серце!	uwow
+		The shadows consume you.	Тіні поглинають тебе.	uwow
+		This is gonna hurt!	Буде боляче!	uwow
+		Watch where you step!	Дивись, куди ступаєш!	uwow
+		I am. Her final journey should be at your side.	Так. Її остання подорож має минути поруч із тобою.	uwow
+		, I must speak with you. When you are done here, come to me at the docks.	, мені треба з тобою поговорити. Коли закінчиш тут, підійди до мене в доках.	uwow
+		, I have a message from de hash'ey. She got a matter dat requires your expert attention.	, у мене повідомлення від хаш'ей. У неї є справа, що потребує твоєї фахової уваги.	uwow
+		The aqir stir now that Kith'ix awakens. We must stop them from spreading destruction on its behalf.	Акіри ворушаться, відколи прокинувся Кіт'їкс. Ми мусимо не дати їм сіяти руйнування від його імені.	uwow
+		The rest of the swarm is sure to follow. , meet up with Arator while we prepare for the next attack.	Решта рою неодмінно піде слідом. , зустрінься з Аратором, поки ми готуємося до наступної атаки.	uwow
+		What a stench! It's secreting some kind of pheromone...	Який сморід! Воно виділяє якийсь феромон...	uwow
+		We need your help back here!	Нам тут потрібна твоя допомога!	uwow
+		Enough bickering! We can go back to hatin' each other after Kithi'x is dead.	Годі сваритися! Ненавидіти одне одного зможемо й після того, як Кіт'їкс здохне.	uwow
+		You're keepin' up better than I expected. But de true trials are yet to come.	Ти тримаєшся краще, ніж можна було сподіватися. Та справжні випробування ще попереду.	uwow
+		We will secure the rare. , go with Zul'jarra and deal with that barrier.	Ми убезпечимо рідкісну знахідку. , іди із Зул'джаррою й розберися з тим бар'єром.	uwow
+		Someone's gotta keep the big one busy! Hash'ey, get the others to safety! For Zul'Aman!	Хтось має зайняти того велета! Гаш'ею, виведи решту в безпечне місце! За Зул'Аман!	uwow
+		Split up and search the temple. The way to Kith'ix must be somwhere.	Розділімося й обшукаймо храм. Шлях до Кіт'їкса має бути десь тут.	uwow
+		Then come what may, we will stand together. , lead us to victory.	Тоді нехай станеться що завгодно — ми стоятимемо разом. , веди нас до перемоги.	uwow
+		Deatholme will never be free of its shadows, but at least we can stop it from spreading.	Смертолом ніколи не звільниться від своїх тіней, але принаймні ми можемо не дати їм поширюватися.	uwow
+		I'd rather neither of you find out. Watch your step!	Краще б вам обом цього не дізнаватися. Дивіться під ноги!	uwow
+		I wonder what is down there.	Цікаво, що там унизу.	uwow
+		Quicklly, let us search the area for any clues left behind.	Швидше, обшукаймо місцевість — може, лишилися якісь підказки.	uwow
+		Blast! The door is sealed! There's no obvious lock to pick.. How do we move forward?	Прокляття! Двері запечатані! Замка, який можна зламати, не видно... Як нам іти далі?	uwow
+		We should keep moving. Will the spirits allow us to pass?	Нам слід рухатися далі. Невже духи пропустять нас?	uwow
+		Patrol routes have changed and left blind spots within our lands. I would appreciate any backup you can provide my Farstriders.	Маршрути патрулів змінилися, і в наших землях лишилися сліпі зони. Я буду вдячний за будь-яку підтримку моїм Далекоходцям.	uwow
+		Hopefully the Farstriders can return to their routine soon. We have been through much. A good old-fashioned hunt would be a welcome reprieve.	Сподіваюся, Далекоходці невдовзі повернуться до звичного розпорядку. Ми багато пережили. Добре старе полювання стало б жаданим перепочинком.	uwow
+		The lake bloom threatens to choke out the native wildlife. Do not let it grow unchecked.	Цвітіння озера загрожує задушити місцеву фауну. Не дай йому розростися безконтрольно.	uwow
+		An invasive species must be removed from the roots.	Чужорідний вид треба вирвати з корінням.	uwow
+		We may have reached an accord with the Amani, but that does not give them free rein to destroy this land. Send them back to their tribe.	Ми, можливо, дійшли згоди з амані, але це не дає їм права нищити цю землю. Відправ їх назад до племені.	uwow
+		Traitorous intent will not be tolerated, be it elf or Amani. Zul'jarra's words are final.	Зрадницьких намірів ми не потерпимо, будь то ельф чи амані. Слово Зул'джарри остаточне.	uwow
+		Rats scurry in the shadows, but they cannot escape judgment. See it done.	Щури шмигають у тінях, але від суду їм не втекти. Подбай про це.	uwow
+		This cult continues to threaten the kingdom and our neighbors. Mercy is beyond their reach.	Цей культ і далі загрожує королівству та нашим сусідам. Милосердя для них недосяжне.	uwow
+		My people are uneasy as it is. They do not need extra cause to worry. Take care of these cultists immediately.	Мій народ і так неспокійний. Йому не потрібні зайві приводи для хвилювань. Негайно розберися з цими культистами.	uwow
+		We have lost enough of my kin to their lies. We will keep them silent.	Ми вже втратили надто багато моїх одноплемінників через їхню брехню. Ми змусимо їх замовкнути.	uwow
+		This darkness cannot survive in the light of the Sunwell.	Ця темрява не вціліє у світлі Сонячної Криниці.	uwow
+		I doubt we've seen the last of them, but any effort is appreciated.	Сумніваюся, що це останні з них, але будь-які зусилля цінні.	uwow
+		This ritual may draw some attention. Speak to me when you are ready to begin.	Цей ритуал може привернути увагу. Поговори зі мною, коли будеш готов$p(ий:а) почати.	uwow
+		Shamblers!	Шамблери!	uwow
+		Cower and tremble.	Тремтіть і тисніться від страху.	uwow
+		Cast your peasants!	Киньте своїх селюків!	uwow
+		Curse the day you came!	Проклинайте день, коли ви прийшли!	uwow
+		Get out!	Геть!	uwow
+		Sizzle, sizzle!	Шкварчи, шкварчи!	uwow
+		Barely here.	Ледве тут.	uwow
+		But the Fel was a mistake then, it remains a mistake now.	Але Скверна тоді була помилкою, і лишається нею досі.	uwow
+		She preyed on fear for her own gain. Her death was deserved.	Вона полювала на страх заради власної вигоди. Її смерть заслужена.	uwow
+		I'll take care of these civilians. Hunt her down.	Цивільних я беру на себе. Вистеж її.	uwow
+		Skies protect!	Небеса, захистіть!	uwow
+		Alert the Spellbreakers! They cannot reach the inner sanctum!	Попередьте Руйнівників чар! Їм не можна дійти до внутрішнього святилища!	uwow
+		Spellbreakers, of course. You deal with them. I'll handle the reinforcements.	Звісно, руйнівники чарів. Ти розберися з ними. Підкріплення я беру на себе.	uwow
+		Dark detonation!	Темний вибух!	uwow
+		Bowed and broken.	Схилені й зламані.	uwow
+		The void stands.	Порожнеча стоїть.	uwow
+		The Shadowguard attacked us in Telogrus on K'aresh, and they dare to defy us here. Vanquish them.	Тіньова варта напала на нас у Телогрусі на К'ареші, а тепер зухвало протистоїть нам і тут. Здолайте їх.	uwow
+		Those who spill Ren'dorei blood will know no quarter on this or any other world.	Ті, хто проливає кров ренд'орей, не знатимуть пощади ні в цьому, ні в жодному іншому світі.	uwow
+		Another of those beasts! Quickly!	Ще одна з тих почвар! Швидше!	uwow
+		Those spores are suffocating. We must clear the way down.	Ці спори душать. Ми мусимо розчистити шлях донизу.	uwow
+		A storm of elementals be whipping round the mountains, threatening souls nearby. The storm must be calmed.	Буря стихійців шалено кружляє навколо гір і загрожує всім поблизу. Бурю треба вгамувати.	uwow
+		Get ready, the storm be getting worse.	Приготуйся, буря дужчає.	uwow
+		The storm be calmed. Thank you.	Бурю вгамовано. Дякую тобі.	uwow
+		If you're brave enough, more divers are needed for hunts down in the depths.	Якщо в тебе вистачить відваги, для полювання в глибинах потрібні ще пірнальники.	uwow
+		That's enough for now. Whatever is left, we will save for later. Well done.	На сьогодні досить. Що лишилося, збережемо на потім. Чудова робота.	uwow
+		The Loa of the Hunt granted us a boon of stealth to keep an eye on the Vilebranch. Let's see what they are doing.	Лоа Полювання дарував нам дар непомітності, щоб ми простежили за Мерзенною Гілкою. Подивімося, що вони роблять.	uwow
+		Quiet as the Loa himself. I'll report your observations back to the chief and thank her lassie on your behalf.	Тихо, як сам Лоа. Я перекажу твої спостереження вождю й подякую її дівчинці від твого імені.	uwow
+		Some villagers are challenging each other to a game on the shoreline. Can you beat them?	Деякі селяни викликають одне одного на гру на березі. Зможеш їх перемогти?	uwow
+		Look at you, girlfriend. You made it look easy.	Ти диви, $p(друже:подруго). Тобі це далося легко.	uwow
+		Halazzi got a big job for you. The Vilebranch are still practicing their woeful magics on our people. Help us, please.	У Галаззі є для тебе велика справа. Мерзенна Гілка досі випробовує свою жалюгідну магію на наших людях. Допоможи нам, будь ласка.	uwow
+		Yay! You got 'em and you freed our people. I thank you lots. Halazzi thanks you too.	Ура! Ти розправи$p(вся:лася) з ними й звільни$p(в:ла) наших людей. Щиро дякую тобі. Галаззі теж дякує.	uwow
+		You got the mojo? No? Then grab a hex stick and find some frogs.	Маєш моджо? Ні? Тоді бери чаклунську палицю й шукай жаб.	uwow
+		You found the mojo, well done. And don't worry, no frogs were hurt during the anti-hex process.	Моджо знайдено, чудова робота. І не хвилюйся, жодна жаба не постраждала під час зняття пороблення.	uwow
+		My best artisans seek blessings from the Loa of Abundance. If you're crafty, seek Dundun out yourself.	Мої найкращі майстри просять благословення в Лоа Достатку. Якщо ти вправний, сам шукай Дундуна.	uwow
+		Every Loa have great power, but as you can see, some more eccentric than others.	Кожен Лоа має велику силу, але, як бачиш, деякі ексцентричніші за інших.	uwow
+		Focus on taking them down together, as one.	Зосередься на тому, щоб повалити їх разом, як одне ціле.	uwow
+		The darkness that lingers here, the corruption. Can it ever be cleansed?	Ця темрява, що тут тримається, ця скверна. Чи можна її колись очистити?	uwow
+		The end is nigh. Extinguish your hope.	Кінець близько. Загаси свою надію.	uwow
+		The lights be scoured.	Світла вигублено.	uwow
+		Deluge of darkness.	Потоп темряви.	uwow
+		You shame the dead.	Ти ганьбиш мертвих.	uwow
+		There will be night.	Настане ніч.	uwow
+		Your only purpose is oblivion.	Твоя єдина мета — забуття.	uwow
+		Drink. Renew.	Пий. Оновись.	uwow
+		Away with you.	Геть звідси.	uwow
+		Blooding each other to death!	Спускають одне одному кров до смерті!	uwow
+		Of course they do. Come, my friend, the Den of Echoes awaits.	Звісно, вони так і роблять. Ходімо, друже, Лігво Відлунь чекає.	uwow
+		So heroic. Take care not to rush headlong into Salhadaar's maw.	Який героїзм. Дивись, не кидайся стрімголов у пащу Салхаадара.	uwow
+		Stop, Lothraxion! Save your wrath for our enemies!	Стій, Лотракціоне! Збережи свій гнів для наших ворогів!	uwow
+		Leave them, Lothraxion. We must...	Облиш їх, Лотракціоне. Ми мусимо...	uwow
+		Good luck. We'll keep an eye out for you in the wilds.	Щасти. Ми виглядатимемо тебе в нетрях.	uwow
+		On the contrary, I'll settle for keeping up with our friend.	Навпаки, мені вистачить і того, що я встигатиму за нашим другом.	uwow
+		If the small manifestations flourish, they will merge into larger ones. See that they do not.	Якщо малі прояви розростуться, вони зіллються у більші. Не допусти цього.	uwow
+		These manifestations threaten the safety of the Harandar. You have called them so we are safe, for a time.	Ці прояви загрожують безпеці Гарандар. Ти закликав їх, тож певний час ми в безпеці.	uwow
+		The void is not to be tampered with lightly. You are strong, but strength alone is not enough.	З Порожнечею не жартують. Ти сильний, але самої сили замало.	uwow
+		The words, speaker. Something powerful pushes through. Hold the line.	Слова, мовцю. Щось могутнє пробивається крізь завісу. Тримай стрій.	uwow
+		The wards settle, and we remain unbroken. Good hunting.	Обереги стали на місце, і ми вистояли. Вдалого полювання.	uwow
+		The silence thickens and prayer becomes hunter. Restore the balance.	Тиша густішає, і молитва стає мисливцем. Поверни рівновагу.	uwow
+		Our roles are restored. You turned fear against itself.	Наші ролі відновлено. Ти обернув страх проти нього самого.	uwow
+		This beast seeks glory in ruin. Deny it that pleasure.	Цей звір шукає слави в руїні. Не дай йому цієї втіхи.	uwow
+		The beast found no glory, only defeat by your hands. Well done.	Звір не знайшов слави, лише поразку від твоїх рук. Чудово.	uwow
+		Our people need tools to keep the Lightbloom at bay. Arm them.	Нашому народові потрібні знаряддя, щоб стримувати Світлоцвіт. Озброй їх.	uwow
+		The Lightbloom will not triumph in our homeland as long as we work together. Thank you for your help.	Поки ми діємо разом, Світлоцвіт не переможе на нашій батьківщині. Дякую за допомогу.	uwow
+		I feel Aln'ara's song falter. Lend me your strength to restore her harmony.	Я відчуваю, що пісня Алн'ари тремтить. Позич мені свою силу, щоб відновити її гармонію.	uwow
+		With your strength, this song soars again. May its echoes guide our next step.	З твоєю силою ця пісня знову злітає. Нехай її відлуння вкаже нам наступний крок.	uwow
+		The roots whisper warnings of looming ruin. Stand with me to still their fear.	Коріння шепоче застереження про насувну руїну. Стань поруч, щоб вгамувати їхній страх.	uwow
+		The whispers have begun to fade. You quieted the land's dread.	Шепіт почав стихати. Ти заспокоїв страх цієї землі.	uwow
+		A note of song distorts where Lightbloom gathers. Quiet the discord.	Нота пісні спотворюється там, де збирається Світлоцвіт. Угамуй розлад.	uwow
+		With harmony restored, the bloom recedes. May the goddess hear our gratitude.	Гармонію відновлено, і цвітіння відступає. Нехай богиня почує нашу вдячність.	uwow
+		If the elders prefer caution over courage, then let our deeds outshine their doubts.	Якщо старійшини віддають перевагу обережності над відвагою, нехай наші вчинки затьмарять їхні сумніви.	uwow
+		Their doubts dim beside our success. Thank you for proving our bold hearts right.	Поруч із нашим успіхом їхні сумніви блякнуть. Дякую, що довів нашу правоту, сміливі серця.	uwow
+		Feral eyes glow with that cursed bloom. Stop their frenzy, lest it spread unchecked.	Дикі очі світяться від цього проклятого цвіту. Зупини їхнє шаленство, поки воно не поширилося.	uwow
+		The Bloomborn raid subsides. Thank you.	Набіг Квітонароджених вщухає. Дякую.	uwow
+		Don't hold back. Keep his attention.	Не стримуйся. Утримуй його увагу.	uwow
+		Lothraxion's zeal burns ever brighter. I only hope it doesn't burn out of control.	Запал Лотракціона палає дедалі яскравіше. Лишається сподіватися, що він не вийде з-під контролю.	uwow
+		He's lost in his zeal, but we can make him see reason.	Він загубився у власному запалі, але ми можемо достукатися до його розуму.	uwow
+		Be ready. There is no time for hesitation.	Будь напоготові. Часу вагатися немає.	uwow
+		Lothraxion, we've won! We can save Silvermoon!	Лотракціоне, ми перемогли! Ми можемо врятувати Сільвермун!	uwow
+		A particularly powerful enemy approaches.	Наближається надзвичайно сильний ворог.	uwow
+		The Citadel's power has been denied to Xalythar for now. See if the Devouring Host's forces left anything useful behind.	Силу Цитаделі наразі відібрано в Ксалітара. Дізнайся, чи не залишило воїнство Пожирача чогось корисного.	uwow
+		The anguish itself is exquisite.	Сама мука — вишукана.	uwow
+		It is time to augment Silvermoon's defenses with the fruits of our labor.	Настав час зміцнити оборону Сільвермуна плодами наших трудів.	uwow
+		You'll find the mana worms below. Channel the crystal's anguish into them and witness true power.	Мана-черв'яків знайдеш унизу. Спрямуй у них муку кристала й побач справжню силу.	uwow
+		All that matters is that my defenses remain bolstered.	Важливо лише те, щоб моя оборона лишалася зміцненою.	uwow
+		They dare to think they know better than I. I gave our people the power of the Light.	Вони смівають думати, що знають краще за мене. Це я дав нашому народові силу Світла.	uwow
+		Anguish is merely the evolution of my legacy, hidden deeper than anyone imagined.	Мука — лише розвиток моєї спадщини, захований глибше, ніж будь-хто міг уявити.	uwow
+		The crystal vessel, a fragment of a long-dead naaru, was the final piece of my design.	Кристалічна посудина, уламок давно загиблого наару, була останньою частиною мого задуму.	uwow
+		Now that my masterpiece is complete, the weak are nothing more than resources to be harvested.	Тепер, коли мій шедевр завершено, слабкі — не більше ніж ресурси для збору.	uwow
+		I won't allow the meek and timid to take what is rightfully mine away from me.	Я не дозволю смиренним і боязким відібрати в мене те, що по праву моє.	uwow
+		And should they dare try, I'll revel in adding their anguish to my collection.	А якщо наважаться спробувати, я із задоволенням додам їхню муку до своєї колекції.	uwow
+		Do not question it, champion. You are who made all this possible.	Не став цього під сумнів, чемпіоне. Саме ти зробив усе це можливим.	uwow
+		I have not been idle since my time with Maruuk.	Відтоді, як ми були з Маруук, бездіяльність мені чужа.	uwow
+		There! Strike the manifestation down now!	Ось! Знищ цей прояв негайно!	uwow
+		Now, back to safer ground.	А тепер — назад, на безпечніший ґрунт.	uwow
+		Look, the undead kills the blooms outright. They cannot spread against its influence.	Дивись: нежить убиває цвіт одразу. Проти її впливу він не здатен поширюватися.	uwow
+		I don't understand. This is so much worse than we thought. Where is Ruya? How did he not know of this?	Не розумію. Усе набагато гірше, ніж ми думали. Де Руя? Як він міг про це не знати?	uwow
+		If the elders will not grant us access to their own dust, then we will have to gather some ourselves.	Якщо старійшини не дадуть нам доступу до свого пилу, доведеться зібрати його самим.	uwow
+		I can taste your soul already!	Я вже відчуваю смак твоєї душі!	uwow
+		Gonna getcha, getcha, getcha!	Зараз я тебе дістану, дістану, дістану!	uwow
+		Gobble up!	Ам — і нема!	uwow
+		All that energy! Give me!	Така енергія! Віддай її мені!	uwow
+		I've taken down way bigger prey than you.	Мені траплялася здобич куди більша за тебе.	uwow
+		No animal outsmarts me!	Жодна тварина мене не переграє!	uwow
+		Set the trap, then we wait.	Ставимо пастку, а тоді чекаємо.	uwow
+		Gotcha where I want ya!	Тепер ти там, де мені треба!	uwow
+		True and true.	Чиста правда.	uwow
+		Get yourself over here.	Йди-но сюди.	uwow
+		Stay quiet. Rescue any Witherbark you see.	Тихо. Визволяй усіх, хто з Висохлої Кори.	uwow
+		That's Muro'jin. He be a hunter, but his prey be the two-legged type.	Це Муро'джин. Мисливець він, та полює на тих, що ходять на двох ногах.	uwow
+		These kittens have claws. Distract him. I'll free more from his bonds.	У цих кошенят є пазурі. Відверни його увагу. Я звільню ще кількох від пут.	uwow
+		Do you feel your soul leaving ya?	Чуєш, як твоя душа залишає тебе?	uwow
+		At death's grasp.	У лапах смерті.	uwow
+		From suffering, a soul gains power.	Від страждань душа здобуває силу.	uwow
+		Do you hear its anguish? It wants to hurt ya.	Чуєш її муку? Вона хоче завдати тобі болю.	uwow
+		The echoes of tormented souls, their rage know no bounds.	Відлуння змучених душ, їхній гнів не знає меж.	uwow
+		Tormented in life, now they torment in death.	Змучені за життя, тепер мучать і по смерті.	uwow
+		I need all the souls I can get.	Мені потрібні всі душі, які тільки зможу здобути.	uwow
+		Now you're dealing with hex magic.	Тепер ти маєш справу з чаклунською магією.	uwow
+		The law cannot help you here. This is the domain of the dead.	Закон тобі тут не допоможе. Це володіння мертвих.	uwow
+		Rak'tul will rise!	Рак'тул воскресне!	uwow
+		Afflictions, curses, plagues rain down on ya!	Хвороби, прокляття, моровиці — нехай спадають на тебе дощем!	uwow
+		More spirits, more Witherbark. Let us unbind them and move forward.	Більше духів — більше Висохлої Кори. Звільнімо їх і рушаймо далі.	uwow
+		We gonna kill all who responsible.	Ми вб'ємо всіх, хто в цьому винен.	uwow
+		Why just the head? Why not the whole body?	Чому лише голова? Чому не все тіло?	uwow
+		Not so big now, are we?	Тепер ми вже не такі великі, га?	uwow
+		Why don't you take a rest, a long, permanent one?	Чому б тобі не відпочити — довго, вічно?	uwow
+		Ya might be contagious.	Від тебе можна заразитися.	uwow
+		When you contribute enough abundance, my domain will respond with a generous burst of materials!	Коли ти вкладеш досить достатку, мої володіння відповідять щедрим сплеском матеріалів!	uwow
+		How many more valiant crusaders must die for your victory, Alaria?	Скільки ще звитяжних хрестоносців має загинути заради вашої перемоги, Аларіє?	uwow
+		And who will be next? Theralion? Veraan?	А хто буде наступним? Теральйон? Вераан?	uwow
+		The light fades in the warmth of a toothy mouth.	Світло гасне в теплі зубастої пащі.	uwow
+		Everdawn! No! How? Why?	Евердон! Ні! Як? Чому?	uwow
+		Because she was already lost. Do you see now, boy? We must smite them all.	Бо вона вже була втрачена. Тепер розумієш, хлопче? Ми мусимо розправитися з ними всіма.	uwow
+		Oh, Alaria, I had such high hopes for you.	О, Аларіє, мої надії на тебе були такі великі.	uwow
+		But you had to choose the ones that look at you as an abomination. Disappointing.	Але ти обрала тих, хто дивиться на тебе як на почвару. Прикро.	uwow
+		Show your strength and courage out in the battlefield.	Покажи свою силу й відвагу на полі бою.	uwow
+		There are resources in these lands that are available to collect.	У цих землях є ресурси, які можна зібрати.	uwow
+		There are too many creatures in Slayer's Rise. Explore and find out why.	В Уступі Убивць надто багато істот. Дослідь місцевість і з'ясуй чому.	uwow
+		The Alliance is successful. That's great.	Альянс має успіх. Чудово.	uwow
+		You have control, Alliance. Harness it.	Контроль у твоїх руках, Альянсе. Скористайся ним.	uwow
+		Zerdan's vulnerability is her own ego. She underestimates her opposition.	Вразливість Зердан — її власне его. Вона недооцінює своїх супротивників.	uwow
+		Break through these barriers!	Прорвіть ці бар'єри!	uwow
+		You have things to make use of here, so do it.	Тут є що використати, тож скористайся цим.	uwow
+		Don't attempt to break through alone. Be smart. Recruit others.	Не намагайся прорватися поодинці. Дій розумно. Залучай інших.	uwow
+		My hard work has paid off. The Alliance won.	Моя наполеглива праця окупилася. Альянс переміг.	uwow
+		A simple test for you that some of you still failed, but not you.	Просте випробування для тебе, яке дехто досі провалює, але не ти.	uwow
+		If you want to be valiant, learn those turrets.	Якщо хочеш бути звитяжним, опануй ці турелі.	uwow
+		That was interesting. Keep trying, you can't stay awful forever.	Це було цікаво. Пробуй далі: не вічно ж тобі так кепсько виходитиме.	uwow
+		Make quick work of the spoiler so we can go back to what's really important.	Швидко розберися зі зіпсувальником, і повернімося до справді важливого.	uwow
+		You may have killed me, but my magic lives on.	Мене вбито, та моя магія житиме.	uwow
+		I may die, but Rak'tul will live.	Я можу померти, але Рак'тул житиме.	uwow
+		This one.	Цей.	uwow
+		And something gross must croon!	І щось гидке мусить проспівати!	uwow
+		Growing light.	Світло зростає.	uwow
+		Strength in light.	Сила у Світлі.	uwow
+		This one withers.	Цей в'яне.	uwow
+		The vanguard of the Light is lost to the Darkwell. Without them, we have no hope.	Авангард Світла втрачений у Темному колодязі. Без нього в нас немає надії.	uwow
+		After the Well of Eternity was destroyed, we kaldorei swore never again to draw upon its magic.	Після знищення Колодязя Вічності ми, калдорей, поклялися більше ніколи не черпати його магію.	uwow
+		It has long been a target for our world's worst enemies: the Scourge, the Burning Legion, and now the devouring host.	Він давно є ціллю найлютіших ворогів нашого світу: Плаги, Палаючого Легіону, а тепер і Пожираючого воїнства.	uwow
+		These wells are the basis of elven civilization, but their power is too great. They call out across the cosmos and invite invasion.	Ці колодязі — основа цивілізації ельфів, але їхня сила надто велика. Вони кличуть крізь космос і запрошують вторгнення.	uwow
+		The kaldorei have shown that the elven people do not need to be bound to an all-powerful well. Our moonwells reflect our faith, not define our strength.	Калдорей показали, що ельфам не потрібно бути прив'язаними до всемогутнього колодязя. Наші місячні колодязі відображають нашу віру, а не визначають нашу силу.	uwow
+		The conflict between the night elves and Silvermoon is an old one, born of the sundering of the world.	Конфлікт між нічними ельфами та Срібномісяччям — давній, породжений Розламом світу.	uwow
+		Before our people bled in defense of the world, before we were shattered into squabbling factions.	Ще до того, як наш народ проливав кров, захищаючи світ, до того, як ми розкололися на ворогуючі фракції.	uwow
+		I don't think that returning these relics will repair that division, but it might allow us a seat at the war table, so we can defend our home.	Не думаю, що повернення цих реліквій загоїть цей розкол, але воно може дати нам місце за столом війни, аби ми змогли захистити свій дім.	uwow
+		A powerful artifact, and a symbol of the monarchy that ended in noble sacrifice.	Могутній артефакт і символ монархії, що скінчилася шляхетною жертвою.	uwow
+		Inscribed on the first page, his quote: The world is lawless. In Quel'Thalas, we find justice.	На першій сторінці викарбувано його слова: «Світ беззаконний. У Квел'Таласі ми знаходимо справедливість».	uwow
+		The Nightborne have yet to answer the summons. Could the Devouring Host have intercepted the message?	Нічнонароджені досі не відповіли на поклик. Невже Пожираюче воїнство перехопило послання?	uwow
+		Oren. Dead. It becomes clear. Xal'atath's Twilight's Blade must be here. We must confront his murderer.	Орен. Мертвий. Тепер усе ясно. Сутінковий Клинок Ксал'ататх має бути тут. Ми мусимо зустрітися з його вбивцею.	uwow
+		I can already feel the mana flowing back into our forces.	Я вже відчуваю, як мана повертається до наших сил.	uwow
+		Let us return to Silvermoon, champion. The army will join us shortly.	Повернімося до Срібномісяччя, чемпіоне. Армія незабаром приєднається до нас.	uwow
+		Most of us feel that way. Helping others is meaningful, hard work. Take joy where you can. There is enough sorrow in this world.	Більшість із нас так вважає. Допомагати іншим — значуща, важка праця. Радій, де можеш. У цьому світі й так досить скорботи.	uwow
+		This feels good. I'm enjoying the work.	Це приємно. Мені подобається ця робота.	uwow
+		Our people were disappearing before, and the Vilebranch without blame.	Наші люди зникали й раніше, а Скверна Гілка — без жодної провини.	uwow
+		We believe the same now. Fine, Kul'amara. She believes something even more sinister is afoot.	Тепер ми теж у це віримо. Гаразд, Кул'амаро. Вона вважає, що діється щось іще зловісніше.	uwow
+		Alonsus, tell me truthfully, how bad are things in Silvermoon?	Алонсусе, скажи мені правду: наскільки кепські справи в Срібному Місяці?	uwow
+		This is going to offer such great protection.	Це забезпечить чудовий захист.	uwow
+		We can get this right, champion. Let me know when you're ready to try again.	Ми зможемо зробити все як слід, $p(чемпіоне:чемпіонко). Скажи, коли будеш готов$p(ий:а) до нової спроби.	uwow
+		Good work, champion.	Гарна робота, $p(чемпіоне:чемпіонко).	uwow
+		This didn't come out right. Let's give it another try.	Вийшло не так. Спробуймо ще раз.	uwow
+		Remember, Arator, the light does not always come from the wellspring of battle.	Пам'ятай, Араторе: Світло не завжди приходить із джерела битви.	uwow
+		Then we need to disarm them. We'll do what we can from the bridge and call on your Stormhammer if we need assistance.	Тоді їх треба роззброїти. Ми зробимо все можливе з мосту, а якщо знадобиться допомога, покличемо ваш «Штормовий Молот».	uwow
+		Still boggles my mind that it's big enough to fly in there!	Досі не вкладається в голові, що він такий великий, що можна влетіти досередини!	uwow
+		Not that I mind sobbing in my cups with you lads about times past, but why did you call us here, Alonsus?	Не те щоб я проти поплакатися в чарку разом із вами, хлопці, про минулі часи, але навіщо ти нас сюди покликав, Алонсусе?	uwow
+		I've suffered worse losses over the years, but I find it hard to let this place go.	За ці роки були й гірші втрати, але мені важко відпустити це місце.	uwow
+		As do I. This was where Orgrim Doomhammer's victory turned to defeat in the Second War.	І мені. Саме тут перемога Орґрима Молота Згуби в Другій війні обернулася поразкою.	uwow
+		You don't want any of us to tell tales of these bottles, lad.	Не варто комусь із нас розповідати історії про ці пляшки, хлопче.	uwow
+		On one side or the other.	З того чи іншого боку.	uwow
+		You were all here? At the Battle of Blackrock Spire?	Ви всі були тут? У битві за Шпиль Чорної Гори?	uwow
+		It's fine when you're just flying over it, but when you land and smell the ash, that's when you remember.	Коли просто пролітаєш над ним — нічого, але коли приземляєшся й чуєш запах попелу, тоді все й згадується.	uwow
+		I don't like returning to this place. Nothing but bad memories.	Не люблю повертатися сюди. Самі лише погані спогади.	uwow
+		Aka'magosh.	Ака'маґош.	uwow
+		Weapons and spells are obvious threats. Hunger and poverty are too easy to ignore.	Зброя й закляття — очевидні загрози. Голод і злидні надто легко ігнорувати.	uwow
+		Most people suffer due to lack of food or shelter, not from demons or monsters.	Більшість людей страждає через брак їжі чи притулку, а не від демонів чи чудовиськ.	uwow
+		I'm more than ready to face you with everything I've got.	Я зустріну тебе з усією міццю, що маю.	uwow
+		Why do you continue to fight it?	Чому ти й далі з цим борешся?	uwow
+		You're the one I intend to fight, Xal'atath.	Битися я збираюся саме з тобою, Зал'атат.	uwow
+		Embrace it, Alleria.	Прийми це, Аллеріє.	uwow
+		You chose to become a monster, Xal'atath. I'm the hunter who will finally slay you.	Ти обрала стати чудовиськом, Зал'атат. Але це полювання завершиться твоєю смертю.	uwow
+		The Light will be your downfall!	Світло стане твоєю загибеллю!	uwow
+		I'll burn you with the Light, Fury!	Я спалю тебе Світлом, Фуріє!	uwow
+		Is everyone all right in here? Where is the Yonker?	Усі тут цілі? Де Йонкер?	uwow
+		The lightwood. It works! This is all we need.	Світлодерево. Воно діє! Це все, що нам потрібно.	uwow
+		Is that... It couldn't be.	Це ж... Не може бути.	uwow
+		I can't answer that. I can only say I understand how even the most disturbing options look rational when one is filled with as much rage and hate as he and I were.	Не можу відповісти. Скажу лише, що розумію: навіть найстрашніші варіанти здаються розумними, коли серце сповнене такого гніву й ненависті, як у нього та в мене.	uwow
+		At the other temples, the loa came out to meet us. Where Jan'alai?	В інших храмах лоа виходили нам назустріч. Де Джан'алай?	uwow
+		Yet one more trial lies ahead, and I sense an oncoming darkness. Seek out Nalorakk before all is lost.	Попереду ще одне випробування, і я відчуваю наближення темряви. Знайди Налорака, поки все не втрачено.	uwow
+		Get over here and help your leader!	Йди сюди й допоможи своєму ватажкові!	uwow
+		Stop gawking and help me!	Годі витріщатися, допоможи мені!	uwow
+		You came here wanting to commune with Malor'ak. I knew you weren't here to help us.	Ти прийш$p(ов:ла) сюди поспілкуватися з Малор'аком. Було ясно, що не для того, щоб допомогти нам.	uwow
+		It is time. Let us go and face the loa of war.	Час настав. Ходімо зустрінемо лоа війни.	uwow
+		I will stay behind and make sure you both are not disturbed. Good luck, Zul'jarra. And you, champion.	Я залишуся тут і простежу, щоб вам обом ніхто не заважав. Щасти, Зул'джарро. І тобі, $p(чемпіоне:чемпіонко).	uwow
+		My blade disagrees with you, voidling.	Мій клинок із тобою не згоден, створіння Порожнечі.	uwow
+		Zul'jarra, you'll be alive.	Зул'джарро, ти житимеш.	uwow
+		Yes, the Twilight's Blade are defeated. Mordo died by my blade and theirs.	Так, Клинок Сутінок переможено. Мордо загинув від мого клинка й від їхніх.	uwow
+		Return to Amani'Zar. We must celebrate our victory and the return of the loa.	Повертайся до Амані'Зар. Ми маємо відсвяткувати нашу перемогу та повернення лоа.	uwow
+		Pasulamon!	Пасуламон!	uwow
+		Ora ga yang hashura.	Ора га янг хашура.	uwow
+		I'm listening, my friend.	Я слухаю, $p(друже:подруго).	uwow
+		Think if I take and I look child.	Подумай, чи не взяти мені й не поглянути на дитину.	uwow
+		Aghokini, this far into Zul'aman.	Агокіні, так далеко вглиб Зул'аману.	uwow
+		The Domina shadowgraphs provide a toothy edge to the devouring host. What say we rattle a few cages?	Тіньографи Доміни дають зубатої переваги пожираючому війську. Що скажеш, потрусимо кілька кліток?	uwow
+		Give up this madness, Lothraxion. We don't want to fight you.	Облиш це безумство, Лотракціоне. Ми не хочемо з тобою битися.	uwow
+		The burden of Nalorakk, hard to move.	Тягар Налоракка. Важко рухатися.	uwow
+		This trial with the burden, taking all my strength.	Це випробування з тягарем забирає всі мої сили.	uwow
+		Cannot go on. The burden.	Не можу йти далі. Тягар.	uwow
+		Excellent, Jack. Hash'ura, assist me.	Чудово, Джеку. Хаш'уро, допоможи мені.	uwow
+		Help me, Hash'ura. To God make good.	Допоможи мені, Хаш'уро. Нехай Бог доведе все до добра.	uwow
+		Time to wake up, bear!	Час прокидатися, ведмедю!	uwow
+		Fear their money, Fury!	Бійтеся їхніх грошей, Гніве!	uwow
+		Akil'zon, Halazzi, Jan'alai, give me strength!	Акіл'зоне, Галаззі, Ян'алаю, дайте мені сили!	uwow
+		The burden will not keep me from winning!	Тягар не завадить мені перемогти!	uwow
+		Scout the enemy's defenses, but be careful. This is a place of immense power.	Розвідай оборону ворога, але будь обережн$p(ий:а). Це місце величезної сили.	uwow
+		I will relay the information you have gathered to our infiltration parties. Thank you, champion.	Я передам зібрані тобою відомості нашим групам проникнення. Дякую, $p(чемпіоне:чемпіонко).	uwow
+		We may never conquer the void forces entirely here, but we'll take any victory we can.	Можливо, ми ніколи не здолаємо сили Порожнечі тут повністю, але візьмемо будь-яку перемогу, яку зможемо.	uwow
+		Resources be scarce. Gather them quickly.	Ресурсів бракує. Збирай їх швидко.	uwow
+		Gather resources. The winter will begin soon.	Збирай ресурси. Невдовзі почнеться зима.	uwow
+		Finally, a worthy opponent has come. You will show me your strength, or you will die.	Нарешті з'явився гідний супротивник. Покажи мені свою силу, або помреш.	uwow
+		Hiding from me? From the lower.	Ховаєшся від мене? Від нижчого.	uwow
+		I have been defeated. The trial ends, and so does my slumber.	Мене переможено. Випробування закінчилося, а з ним і мій сон.	uwow
+		My strength is a mountain's top!	Моя сила — вершина гори!	uwow
+		You will pay, Zul'jin's bloodjet!	Ти заплатиш, кривава цівко Зул'джина!	uwow
+		Shadow Games!	Ігри Тіні!	uwow
+		I am waiting. Blast them!	Я чекаю. Лупіть по них!	uwow
+		Yes, I'm into submission!	Так, я скоряюся!	uwow
+		Their armor will melt at the sun before you see victory!	Їхні обладунки розплавляться на сонці, перш ніж ви побачите перемогу!	uwow
+		The void is unyielding.	Порожнеча непохитна.	uwow
+		You're pressing embraces me.	Твій натиск мене огортає.	uwow
+		Cause utter destruction.	Заподій цілковите знищення.	uwow
+		Inflict despair.	Накинь відчай.	uwow
+		We end them together, brother.	Покінчимо з ними разом, брате.	uwow
+		Yowzalad, nothing fun.	Йоузалад, нічого веселого.	uwow
+		My core! My core!	Моє ядро! Моє ядро!	uwow
+		You've already surpassed your maximum tolerance!	Межу твоєї витримки вже перейдено!	uwow
+		I won't be satisfied until Lothraxion shares your fate.	Я не заспокоюсь, доки Лотракціон не розділить твою долю.	uwow
+		I will see this through!	Я доведу це до кінця!	uwow
+		See what the Light reveals in your heart.	Поглянь, що Світло відкриває в твоєму серці.	uwow
+		Giddy, there's a lot of talking to cover up the fact that they're so weak. Defeat him!	Дурниці! Вони так багато говорять, щоб приховати власну слабкість. Здолай його!	uwow
+		Tear it all down and get to their keep!	Знищуй усе й пробивайся до їхньої фортеці!	uwow
+		There's no time for waiting. Use the turrets and rip through them!	Часу чекати немає. Скористайся турелями й рознеси їх!	uwow
+		Well done. We have proven to the Horde and to Vidious who the better of us is.	Чудово. Ми довели Орді та Відіусу, хто з нас кращий.	uwow
+		That was eventful. It's good to keep our fighting skills keen.	Було бурхливо. Корисно тримати бойові навички гострими.	uwow
+		I don't care how you get it done. Get those behemoths moving!	Мені байдуже, як ти це зробиш. Змусь цих бегемотів рухатися!	uwow
+		Good. Don't let the behemoths fool you. They all bend to the rule of strength.	Добре. Не дай бегемотам ошукати себе. Усі вони підкоряються закону сили.	uwow
+		Priory, wait! We need to get the civilians to the docks so they can escape.	Пріорате, стривайте! Нам треба відвести цивільних до доків, щоб вони могли втекти.	uwow
+		You can count on me, Lor'themar, even if my father would rather I join the fray.	Ти можеш на мене розраховувати, Лор'темаре, навіть якщо мій батько волів би бачити мене в гущі бою.	uwow
+		Foul minion of Xal'atath, you will not feast on the Sin'dorei today!	Бридкий слуго Зал'атат, сьогодні ти не поласуєш син'дорей!	uwow
+		Xal'atath won't spare a single life! This can't go unanswered!	Зал'атат не пощадить жодного життя! Це не можна лишити без відповіді!	uwow
+		The ships are almost free! Don't let up!	Кораблі майже вільні! Не послаблюйте натиск!	uwow
+		Shoot these monsters out of the sky!	Збивайте цих почвар із неба!	uwow
+		It's fleeing from the strength of the Light! Victory is ours!	Воно тікає від сили Світла! Перемога за нами!	uwow
+		By the Light! We have to move, now!	Світлом клянусь! Треба рухатися, негайно!	uwow
+		Champion, their commander has shown itself. Vanquish it.	Чемпіоне, їхній командир показався. Здолай його.	uwow
+		Don't lose hope, champion. We've almost won!	Не втрачай надії, чемпіоне. Ми майже перемогли!	uwow
+		You've done it, Arator, with me. We must complete the ritual.	Тобі це вдалося, Араторе, разом зі мною. Тепер треба завершити ритуал.	uwow
+		Disgusting, although effective.	Огидно, хоч і дієво.	uwow
+		I'll make them suffer, [unclear].	Я змушу їх страждати, [unclear].	uwow
+		Become one of my pets.	Стань одним із моїх улюбленців.	uwow
+		Please let this be the end.	Прошу, нехай це буде кінець.	uwow
+		A risky plan, Umbric, but we have no other choice.	Ризикований план, Умбріку, але іншого вибору в нас немає.	uwow
+		Interlopers. How unexpected.	Непрохані гості. Як несподівано.	uwow
+		With these reinforcements, we can push back the enemy.	З цим підкріпленням ми зможемо відкинути ворога.	uwow
+		The Sunwell's initial destruction caused more splintering of the elven people. More grudges, more revolutions, and hatred were born.	Початкове руйнування Сонячного Колодязя спричинило ще більший розкол ельфійського народу. Постало більше образ, заколотів і ненависті.	uwow
+		The void offers easy solutions to the desperate. Ansurek, Jhara, Salhadaar, all corrupted by the void's help. We must be better.	Порожнеча пропонує легкі рішення відчайдушним. Ансурек, Джхара, Салгадаар — усіх розбестила допомога Порожнечі. Ми повинні бути кращими.	uwow
+		Umbric's rejection of the traditional magic of Silvermoon does not mean he has special insight. It means he has betrayed us.	Відмова Умбріка від традиційної магії Срібного Місяця не означає, що він має особливе прозріння. Вона означає, що він зрадив нас.	uwow
+		Umbric was not summoned by the Sunwell. The Light knows what it needs to save itself, and it did not call for him.	Умбріка не кликав Сонячний Колодязь. Світло знає, що потрібно для його порятунку, і воно не кликало його.	uwow
+		Champion, could you return to Silvermoon and inform Lor'themar that the vanguard of the Light is prepared and will assault Xal'atath's void spire on schedule.	Чемпіоне, чи не міг би ти повернутися до Срібного Місяця й повідомити Лор'темару, що авангард Світла готовий і штурмуватиме шпиль Порожнечі Зал'атат за розкладом.	uwow
+		Theralion and Lyria haven't had time to speak since being reunited. Let's give them space to talk in private.	Тераліон і Лірія не мали часу поговорити відтоді, як возз'єдналися. Дамо їм можливість побути наодинці.	uwow
+		We asked the Sunwell to save our people, and it called the Vanguard of the Light. The fate of Quel'Thalas is in their hands. I wish it was in our own.	Ми попросили Сонячний Колодязь урятувати наш народ, і він покликав Авангард Світла. Доля Квел'Таласа в їхніх руках. Хай би вона була в наших.	uwow
+		Am I like slipping away? Let me out.	Я що, наче розчиняюся? Випустіть мене.	uwow
+		And you are.	І ти теж.	uwow
+		Have you seen the void hunters that snatch our medics away and drag off our wounded?	Ви бачили мисливців Порожнечі, що викрадають наших медиків і тягнуть геть поранених?	uwow
+		You've also helped me personally with... well, I just want you to know I'm grateful.	Ти також особисто допомага$p(в:ла) мені з... ну, я просто хочу, щоб ти зна$p(в:ла), що я дуже це ціную.	uwow
+		Thank you for all you've done. You've been invaluable in this fight against Xal'atath.	Дякую за все, що ти зробив$p(в:ла). Твоя допомога в боротьбі із Зал'атат — безцінна.	uwow
+		With the way cleared, we can begin our assault on the Voidspire. Well done, champion.	Шлях вільний, тож можемо починати штурм Шпиля Порожнечі. Гарна робота, $p(чемпіоне:чемпіонко).	uwow
+		That should do it! Return to base.	Це має спрацювати! Повертайся на базу.	uwow
+		By the Light! You're unstoppable, champion! I renounce all my doomsaying and negativity, unless I'm in me cups.	Світлом клянуся! Тебе не спинити, $p(чемпіоне:чемпіонко)! Зрікаюся всіх своїх лихих пророцтв і похмурості — хіба що вип'ю зайвого.	uwow
+		That zealot half-woman keeps threatening us. She's not so chatty now we've blown up her base, is she?	Ця фанатична напівжінка досі нам погрожує. Щось вона не така балакуча, відколи ми рознесли її базу, еге ж?	uwow
+		Well done! Look at you, giving these overgrown blueberries what for!	Чудова робота! Ти лишень глянь — ці переросли чорниці отримали по заслузі!	uwow
+		How's it handling? I had an Elf redesign goblin controls. There's a chance of accidentally exploding yourself.	Як воно керується? Я доручив ельфові переробити ґоблінське керування. Є шанс випадково підірвати себе.	uwow
+		I refused to believe it until I saw it with my own eyes. We must rescue them, champion.	Я не вірив, поки не побачив на власні очі. Ми мусимо їх урятувати, $p(чемпіоне:чемпіонко).	uwow
+		Oh, put me down, you beast!	Ой, постав мене на землю, звіре!	uwow
+		The waves of void energy coming from the Darkwell are similar to the environment of the Voidstorm. The devouring host will be empowered.	Хвилі енергії Порожнечі, що линуть із Темної криниці, схожі на середовище Тінебурі. Всепоглинальне військо стане сильнішим.	uwow
+		We faced similar horror when the Scourge corrupted the Sunwell. We defeated Arthas. We will defeat Xal'atath as well.	Ми зазнали схожого жаху, коли Мор осквернив Сонячну криницю. Ми здолали Артаса. Здолаємо й Зал'атат.	uwow
+		Even corrupted, the Darkwell is a source of immense power. We must drive the void from Quel'Danas.	Навіть осквернена, Темна криниця — джерело величезної сили. Ми мусимо прогнати Порожнечу з Квел'Данасу.	uwow
+		Into the breach! Go! Go! Go!	У проламину! Уперед! Уперед! Уперед!	uwow
+		Nightborne, unleash your magic on our foes!	Нічнороджені, обрушіть свою магію на наших ворогів!	uwow
+		The army is assembled. It is time to punch through Xal'atath's forces.	Військо зібране. Час пробити лави Зал'атат.	uwow
+		The Elves of Azeroth stand ready.	Ельфи Азероту готові.	uwow
+		It seems we had more than one unexpected ally today, and for that, I am glad.	Виявляється, сьогодні в нас було більше ніж один несподіваний союзник, і це мене тішить.	uwow
+		Destroy that past so we can get back to beating Vidious.	Знищ це минуле, щоб ми могли повернутися до розправи з Відіусом.	uwow
+		We can extract considerable anguish from these targets, but they will seek to undo you at every turn.	Ми можемо вичавити чимало страждань із цих цілей, але вони намагатимуться занапастити тебе на кожному кроці.	uwow
+		Valeera has need of your skills once more. It seems to be a matter of some discretion.	Валірі знову потрібні твої вміння. Схоже, справа делікатна.	uwow
+		Here, rest and recover. You're no use dead.	Ось, відпочинь і відновися. Мертвий ти нікому не станеш у пригоді.	uwow
+		You're not at your best. Rest here.	Ти не в найкращій формі. Відпочинь тут.	uwow
+		Your mana is low. You should rest.	У тебе мало мани. Тобі слід відпочити.	uwow
+		We need to have a look around.	Нам треба роздивитися навколо.	uwow
+		This warrants a closer look.	Це варто роздивитися ближче.	uwow
+		Nothing a little wanton destruction won't solve.	Нічого такого, чого б не розв'язало трохи безглуздих руйнувань.	uwow
+		You'll want to stand back.	Краще відійди.	uwow
+		Stand back. I'll get this door open.	Відійди. Я відчиню ці двері.	uwow
+		Make room, I can unlock it.	Дай місце, я її відімкну.	uwow
+		No door stays closed when you have the right tools.	Жодні двері не лишаються зачиненими, коли маєш потрібне знаряддя.	uwow
+		I can pick this lock.	Я можу зламати цей замок.	uwow
+		I can dispel it.	Я можу це розвіяти.	uwow
+		Form up!	Шикуйтеся!	uwow
+		I have you.	Я тебе тримаю.	uwow
+		Let me help.	Дай допоможу.	uwow
+		Pull them here.	Тягни їх сюди.	uwow
+		Hold it in place.	Утримай його на місці.	uwow
+		Stun it!	Приголомш його!	uwow
+		No time to waste. Meet me in Zabtella, champion.	Нічого марнувати час. Зустрінемося в Забтеллі, $p(чемпіоне:чемпіонко).	uwow
+		You'll choke on those words, creature.	Ти вдавишся цими словами, істото.	uwow
+		You will not find victory here.	Перемоги ти тут не знайдеш.	uwow
+		You will find your end, a knight.	Тут ти знайдеш свій кінець, лицарю.	uwow
+		I will spare you the cruelty of a slow death.	Я позбавлю тебе жорстокості повільної смерті.	uwow
+		I will pick you from my teeth.	Я вишкребу тебе з-поміж зубів.	uwow
+		Nothing. No one can match my appetite.	Ніщо. Ніхто не зрівняється з моїм апетитом.	uwow
+		The void has taken enough. You will take from us no more.	Порожнеча взяла вже досить. Більше ти в нас нічого не відіймеш.	uwow
+		You're still here. Get out there and hunt.	Ти все ще тут. Ступай на полювання.	uwow
+		I have curated a selection of powerful targets. Take your pick, champion.	Я дібрав для тебе могутні цілі. Обирай, $p(чемпіоне:чемпіонко).	uwow
+		Our people have made the most astounding progress when our backs were to the wall.	Наш народ досягав найдивовижніших успіхів тоді, коли був загнаний у глухий кут.	uwow
+		We harnessed the very essence of the Light. We drove back the Scourge. We conquered Outland, exploring new worlds. We rebuilt our beloved city.	Ми приборкали саму суть Світла. Ми відігнали Плеть. Ми підкорили Позасвіття, досліджуючи нові світи. Ми відбудували наше кохане місто.	uwow
+		And now, we defend it.	А тепер ми його захищаємо.	uwow
+		My arcane research is merely the latest chapter in our long tradition of mastering the world around us.	Мої аркані дослідження — лише останній розділ нашої давньої традиції опановувати світ навколо нас.	uwow
+		Only this time, our salvation comes not from the Naaru or Mana, but from the blood of our enemies.	Тільки цього разу наш порятунок прийде не від Наару чи мани, а з крові наших ворогів.	uwow
+		Hmm. Seems all of this community's plots have been claimed. But don't fret, we'll find a place for you somewhere.	Хмм. Схоже, всі ділянки цієї громади вже зайняті. Але не хвилюйся, ми десь знайдемо місце і для тебе.	uwow
+		I'm afraid the community is still full, friend. Speak up if you'd like to visit one with available plots.	Боюся, громада досі переповнена, $p(друже:подруго). Скажи, якщо захочеш завітати до тієї, де є вільні ділянки.	uwow
+		We night elves ended our reliance on sources of magic like the Sunwell. Suramar's ancestors lacked such discipline.	Ми, нічні ельфи, відмовилися від залежності від джерел магії на кшталт Сонячної Криниці. Предкам Сурамара бракувало такої дисципліни.	uwow
+		Quick, Will, Phil.	Швидше, Вілле, Філе.	uwow
+		Our people understand the power of rituals and the threat they pose, but our enemies will not be deterred easily. You must venture to the site of these rituals and put an end to them.	Наш народ розуміє силу ритуалів і загрозу, яку вони несуть, але вороги так просто не відступлять. Ти маєш вирушити до місць цих ритуалів і покласти їм край.	uwow
+		They are gone, for now. On behalf of the Loa, we thank you.	Вони зникли — принаймні поки що. Від імені Лоа дякуємо тобі.	uwow
+		Nasty white creatures. They do not belong in our lands.	Гидкі білі створіння. Їм не місце на наших землях.	uwow
+		Foolish creatures think they can take from the Lord of War. Show them no mercy.	Дурні створіння думають, що можуть щось забрати в Володаря війни. Не май до них жалю.	uwow
+		Those below Atal'Aman are safe for now. We thank you.	Ті, хто під Атал'Аманом, поки в безпеці. Дякуємо тобі.	uwow
+		I have heard reports of a giant monster in our waters. If this is true, we will need the help of a hero.	Надійшли повідомлення про гігантське чудовисько в наших водах. Якщо це правда, нам знадобиться допомога героя.	uwow
+		Our watchpoint is under assault by the ethereal forces. Help us fight off these cursed creatures.	Наш сторожовий пост зазнає нападу ефірних сил. Допоможи нам відбити цих проклятих створінь.	uwow
+		The Amani lumberyard need your help. More Twilight's Blade are moving in to push us out.	Лісозаготівельний табір амані потребує твоєї допомоги. Прибуває ще більше бійців Клинка Сутінків, щоб витіснити нас.	uwow
+		The warlock Lady Darkvein seems to relish ritual knowledge. Discuss what you learned in your attack, and we can use her studies to prepare you to face greater ritual threats.	Чорнокнижниця леді Темножила, схоже, захоплюється знанням про ритуали. Розкажи їй, що ти дізнав$p(ся:лася) під час нападу, і ми зможемо використати її дослідження, щоб підготувати тебе до зустрічі з більшими ритуальними загрозами.	uwow
+		We can continue supplying our forces. Well done.	Ми можемо й далі постачати наші війська. Чудова робота.	uwow
+		Thank you, hero. That monster would have destroyed these lands.	Дякую, $p(герою:героїне). Те чудовисько зруйнувало б ці землі.	uwow
+		Who do we have here, eh? A troll who's all friendly with the Bar Sunfire.	Ото хто тут, га? Троль, що так дружить із баром «Сонячний Вогонь».	uwow
+		Dark creatures are appearing in the Leech Bog. Find out how they got here and crush them.	У П'явочному болоті з'являються темні створіння. Дізнайся, як вони сюди потрапили, і знищ їх.	uwow
+		These invaders are attacking the children of the Loa. Destroy their machines and stop them.	Ці загарбники нападають на дітей Лоа. Знищ їхні машини й зупини їх.	uwow
+		The chilling end!	Крижаний кінець!	uwow
+		Burn, Jaina's!	Горіть, Джайнині!	uwow
+		Elements, twist to my will!	Стихії, скоріться моїй волі!	uwow
+		Choke and drown on the frothing sea!	Захлинься й потони в клекітливому морі!	uwow
+		Enchongdenice!	Енчонґденіс!	uwow
+		A flame!	Полум'я!	uwow
+		Stop their movement!	Зупиніть їхній рух!	uwow
+		The Twilight's Blade scour the ruins of Deatholme for lost Scourge artifacts and latent dark energies. Purge the darkness and put an end to their rituals.	Клинок Сутінків прочісує руїни Смертхолму в пошуках загублених артефактів Плеті та прихованих темних енергій. Очисти це місце від темряви й поклади край їхнім ритуалам.	uwow
+		Those pylons need to be dealt with swiftly, to keep those void forces from gaining ground.	З тими пілонами треба розібратися якнайшвидше, щоб сили Порожнечі не здобули перевагу.	uwow
+		There's an outbreak of void corruption at the menagerie. We need you to investigate.	У звіринці стався спалах скверни Порожнечі. Нам потрібна твоя допомога: треба все дослідити.	uwow
+		The Domanaar are advancing toward the West Sanctum. We need more support to fend them off.	Доманаари просуваються до Західного Святилища. Нам потрібно більше підтримки, щоб їх стримати.	uwow
+		The outbreak is under control. Thank you, champion.	Спалах приборкано. Дякую, $p(чемпіоне:чемпіонко).	uwow
+		Void pylons have appeared near Windrunner Village. Get in there and take them down!	Біля Селища Вітрогонів з'явилися пілони Порожнечі. Біжи туди й знищ їх!	uwow
+		The Sanctum is safe, for now. Thank you, champion.	Святилище поки що в безпеці. Дякую, $p(чемпіоне:чемпіонко).	uwow
+		Silvermoon is being bombarded from above! Anar'alah belore! Defend our city!	Сільвермун обстрілюють згори! Anar'alah belore! Захищай наше місто!	uwow
+		The dark sphere came very close to being consumed by Moira, and Zaetar became very close to being a husk of death.	Темна сфера ледь не була поглинута Мойрою, а Заетар ледь не став висохлою оболонкою смерті.	uwow
+		It seems the security on those gifts is rather light. I'm sure we can make them regret this.	Схоже, ці дарунки охороняють доволі кепсько. Не сумніваюся, що ми змусимо їх пошкодувати про це.	uwow
+		These ethereals stole arcane energy from Quel'Thalas to power these machines. It's only fair if we divert and redirect their power our way.	Ці етереали викрали аркану енергію Квел'Таласу, щоб живити свої машини. Буде справедливо, якщо ми перенаправимо їхню силу собі.	uwow
+		Harnessing raw arcane energy has left the ethereal machinery susceptible to sabotage. Unleash chaos and disrupt their systems.	Вживання сирої аркани енергії зробило механізми етереалів вразливими до саботажу. Влаштуй хаос і виведи їхні системи з ладу.	uwow
+		You got a mojo? No. Then grab a hex stick and find some frogs.	Є моджо? Нема? Тоді бери жезл прокляття й шукай жаб.	uwow
+		Boom! Eat this one!	Бум! Ласуй цим!	uwow
+		Revivification!	Відживлення!	uwow
+		Cast wide! Seeds of incursion!	Розкидай широко! Насіння навали!	uwow
+		To cooperate, this one restores you.	Щоб діяти разом, цей відновлює тебе.	uwow
+		Growth will give us hardier flesh!	Зростання дасть нам міцнішу плоть!	uwow
+		Strike and venom!	Удар і отрута!	uwow
+		Trespassers! Disruptors! Face consequence!	Зайди! Порушники! Руйнівники! Зустріньте наслідки!	uwow
+		Walking blight, heathland.	Ходяча скверна, пустища.	uwow
+		Land consumes, essence reclaimed.	Земля поглинає, сутність повернено.	uwow
+		Walking blight, tainted land.	Ходяча скверна, осквернена земля.	uwow
+		I ask that you meet me in Amani'Zar. My people need their Hash'ey, and I would benefit from your counsel.	Прошу, зустрінься зі мною в Амані'Зар. Моєму народові потрібен його Хаш'ей, а мені стала б у пригоді твоя порада.	uwow
+		This must be Malacrass's doing. If only I hadn't shown Zul'jan that vision of Ula'tek.	Це, мабуть, витівка Малакрасса. Якби ж Зул'джан не побачив від мене те видіння Ула'тека.	uwow
+		Watch out for the venom. Fall back before you get bitten.	Стережися отрути. Відступай, поки тебе не вкусили.	uwow
+		In my vision I saw Zul'jan's dagger. It harvested souls to summon Ula'tek.	У моєму видінні був кинджал Зул'джана. Він збирав душі, щоб прикликати Ула'тека.	uwow
+		By wounding Zul'jarra, it has cursed her to be one of the ritual sacrifices.	Поранивши Зул'джарру, кинджал прокляв її стати однією з жертв ритуалу.	uwow
+		So she isn't poisoned. Her soul is being drained to fuel the ritual.	Тож її не отруєно. Її душу висмоктують, щоб живити ритуал.	uwow
+		We need that dagger, no matter what it takes to get it.	Нам потрібен той кинджал, чого б нам це не коштувало.	uwow
+		Not the best wax and not the best candle for front.	Не найліпший віск і не найліпша свічка для переду.	uwow
+		She will be so very happy!	Вона буде така щаслива!	uwow
+		You really think she'd give him a friend? Real deserve candle from Bath & Body Works?	Ти справді думаєш, вона дасть йому друга? Справжня свічка з Bath & Body Works — чи заслужив?	uwow
+		That candle is perfect gift for her, with perfect curved wax.	Ця свічка — ідеальний дарунок для неї, з ідеально вигнутим воском.	uwow
+		Skitter would love to have friends like that. Have friends.	Скіттеру б сподобалось мати таких друзів. Мати друзів.	uwow
+		Skitter was alone, chained to post. Then McBrunth and fat Candle King now have mirror too.	Скіттер був сам, прикутий до стовпа. А тепер і в Макбранта, і в товстого Короля Свічок теж є дзеркало.	uwow
+		Can have more best friends? Think Skitter could be someday?	Можна ще найкращих друзів? Як гадаєш, Скіттер колись зможе?	uwow
+		The Narrator be Skitter's best friend.	Оповідач — найкращий друг Скіттера.	uwow
+		This friend is like best candle, bright and warm, but for feelings.	Цей друг як найкраща свічка: яскравий і теплий, але для почуттів.	uwow
+		Time for a rest.	Час відпочити.	uwow
+		I'll be back. Don't you wait.	Я повернуся. Не чекай на мене.	uwow
+		Zul'jan. This time he's gone too far.	Зул'джан. Цього разу він зайшов надто далеко.	uwow
+		Malacrass is making them do this. We'll free the captives and my brother.	Малакрас змушує їх це робити. Ми звільнимо полонених і мого брата.	uwow
+		Those three must be the ones in charge.	Ті троє, мабуть, і керують усім.	uwow
+		Malacrass never intended to share power. He used my brother to get what he wants.	Малакрас ніколи не збирався ділитися владою. Він використав мого брата, щоб отримати те, чого хоче.	uwow
+		Once Ula'tek rises, it will devour everything in its reach, both Zul'Aman and Quel'Thalas.	Щойно Ула'тек постане, він пожере все на своєму шляху — і Зул'Аман, і Квел'Талас.	uwow
+		We won't let that happen. We stand with you, Hash'ey.	Ми не допустимо цього. Ми з тобою, Гаш'ей.	uwow
+		Zul'jan, I'm bringing you home, little brother.	Зул'джан, я забираю тебе додому, братику.	uwow
+		I'm sorry, Zul'jarra. There's nothing more we could have done.	Пробач, Зул'джарро. Ми більше нічого не могли вдіяти.	uwow
+		I did what I thought was right, Lor'themar, regardless of your orders.	Я діяв так, як вважав правильним, Лор'темаре, попри твої накази.	uwow
+		I need to know I'm sending my troops somewhere safe. Go scout ahead.	Мені треба знати, що я посилаю війська в безпечне місце. Іди розвідай, що попереду.	uwow
+		But Skitter not have very close friend Miritas. No best friend for Skitter.	Але в Скіттера немає дуже близької подруги Мірітас. Немає найкращої подруги для Скіттера.	uwow
+		Perhaps safety was too much to hope for, but at least we know what's coming.	Можливо, сподіватися на безпеку було забагато, але принаймні ми знаємо, що на нас чекає.	uwow
+		Zalazane promised us.	Залазан обіцяв нам.	uwow
+		A blunt instrument will kill you just as well.	Тупа зброя вб'є тебе так само добре.	uwow
+		Ah, but a mother never leaves her brood if she thought they were in danger.	Ах, але мати ніколи не покине виводок, якщо вважатиме, що йому загрожує небезпека.	uwow
+		A glorious gale of abundance. Breathe it in, acolyte. Breathe it deep.	Славетний вихор достатку. Вдихни його, послушнику. Вдихни глибоко.	uwow
+		I will provide reinforcements strong enough to protect even your fragile form.	Я пришлю підкріплення, достатньо сильне, щоб захистити навіть твоє тендітне тіло.	uwow
+		This one has power as well.	В цього теж є сила.	uwow
+		Aim where it hurts.	Цілься туди, де болить.	uwow
+		I like fish.	Я люблю рибу.	uwow
+		All nature's power at once!	Уся сила природи разом!	uwow
+		What food and blessing would you ask of abundance?	Якої їжі й благословення ти попросиш у достатку?	uwow
+		Get out of me!	Геть із мене!	uwow
+		Call out to her once more, round and round and coil the seal, just so.	Поклич її ще раз, коло за колом, обвивай печатку, ось так.	uwow
+		Cheering, isn't it!	Бадьорить, чи не так!	uwow
+		Death from within.	Смерть зсередини.	uwow
+		They tremble at her name, but I keep the pulse alive.	Вони тремтять від її імені, а я підтримую пульс живим.	uwow
+		This one, this one stays with me.	Цей, цей лишається зі мною.	uwow
+		Disgusting fish! How does this keep happening? I shall have total control!	Огидна риба! Як це знову стається? Я матиму повний контроль!	uwow
+		Disgusting! Eulie smelly fish!	Огидно! Смердюча риба Юлі!	uwow
+		Don't let it breathe on you!	Не дозволяй йому дихати на тебе!	uwow
+		Everything is in here except something useful.	Тут є все, окрім чогось корисного.	uwow
+		Exceptional! A worthy tool of your destruction.	Чудово! Гідне знаряддя твого руйнування.	uwow
+		Stielitz.	Стіліц.	uwow
+		Fire, ice, isn't it nice?	Вогонь і лід — гарний вид!	uwow
+		Please, again! Can they not control themselves?	Прошу, знову! Невже вони не можуть стриматися?	uwow
+		From the depths of the temple, awaken from your slumber!	З глибин храму пробудися від сну!	uwow
+		Get back! He's trying to take control!	Назад! Він намагається перехопити контроль!	uwow
+		I will not be cast out!	Мене не виженуть!	uwow
+		It wasn't mine! Pitiful shortsolan! All I have is what's in his bag!	Це було не моє! Жалюгідний шортсолане! Усе, що в мене є, — у його сумці!	uwow
+		Sia de terra!	Sia de terra!	uwow
+		Hello, fellow adventurers!	Вітаю, шукачі пригод!	uwow
+		I'm starting to like raw fish. So I'm not. Forget it.	Мені починає подобатися сира риба. Тож ні, не подобається. Забудьте.	uwow
+		How do you walk with this weight on your back? What an awkward creature.	Як ти ходиш із такою вагою на спині? Яка незграбна істота.	uwow
+		How many fish does one portal need?	Скільки риби потрібно одному порталу?	uwow
+		Hungry still.	Голод не вщухає.	uwow
+		Cast off your frayed garments in favor of my divine creations!	Скиньте своє пошарпане лахміття й вдягніть мої божественні творіння!	uwow
+		I will not be imprisoned again!	Я не дозволю знову себе ув'язнити!	uwow
+		If there had only been better flesh for me to bind to.	Якби ж існувала краща плоть, до якої можна прив'язатися.	uwow
+		If you need me, I'll find you first.	Якщо я тобі знадоблюся, то знайду тебе раніше, ніж ти мене.	uwow
+		It's your family inside.	Усередині твоя родина.	uwow
+		Lest trick I mean ask them for help.	Аби обдурити… тобто попросити в них допомоги.	uwow
+		Line you up, knock you down.	Вишикую й повалю.	uwow
+		Well, enjoy. Your visual appeal certainly does require divine intervention.	Що ж, насолоджуйся. Твоєму вигляду без божественного втручання не обійтися.	uwow
+		No acolyte of mine needs skimp on their armaments.	Жоден мій аколіт не мусить економити на зброї та обладунках.	uwow
+		Might of the deep waves.	Міць глибинних хвиль.	uwow
+		Maveth will won't be taken down that easily.	Мавета так легко не здолати.	uwow
+		No! I was to herald the soilcurler's return, but I was stuck in this shell!	Ні! Мені належало сповістити про повернення землезвивача, а мене замкнуло в цій шкаралупі!	uwow
+		No, no, no! I don't have any power! I was along for the ride!	Ні, ні, ні! У мене немає сили! Я тут випадково!	uwow
+		Not likely.	Навряд.	uwow
+		Now I can steal!	Тепер я можу красти!	uwow
+		Now I can rejoin the Soulcoilers.	Тепер я можу повернутися до Душозвоїв.	uwow
+		Now your tomb will be here.	Тепер тут буде твоя гробниця.	uwow
+		Now, how do I get out of here?	Гаразд, як мені звідси вибратися?	uwow
+		Poison seeks new flesh.	Отрута шукає нову плоть.	uwow
+		Put you on ice.	Покладу тебе на лід.	uwow
+		Quick, interrupt them!	Швидко, перервіть їх!	uwow
+		Right. Feeling shipshape again.	Ось так. Знову в повному порядку.	uwow
+		Rise, Ula'tek, rise!	Повстань, Ула'теку, повстань!	uwow
+		Shango's.	Належить Шанґо.	uwow
+		Something for our cut.	Дещо в рахунок нашої частки.	uwow
+		Spoils are part of the gig.	Здобич — частина роботи.	uwow
+		More from beyond measure, overflowing wonderment, it's the Thunderer!	Ще більше з-поза меж, чудо через вінця — це Громовержець!	uwow
+		Stop him! We cannot let the ritual run its course.	Зупиніть його! Ми не можемо дозволити ритуалу завершитися.	uwow
+		The power of the churning sea.	Міць бурхливого моря.	uwow
+		The tide flows in.	Приплив наступає.	uwow
+		This beast grows stronger with each ravenous bite!	Цей звір дужчає з кожним ненаситним укусом!	uwow
+		This vessel is wasted on hesitation!	Ця посудина пропадає марно через вагання!	uwow
+		This will work!	Це спрацює!	uwow
+		Together they consume everything in their path.	Разом вони пожирають усе на своєму шляху.	uwow
+		Who does? I guess I'll keep this one.	Кому вона потрібна? Гаразд, цю залишу собі.	uwow
+		Wist the blade.	Візьми клинок.	uwow
+		Oh, disgusting. Don't go near that.	Ох, огидно. Не підходь до цього.	uwow
+		Ugh, this skin, so rough, so slimy.	Фу, ця шкіра — така груба, така слизька.	uwow
+		What is that smell? Did I eat a fish?	Звідки цей сморід? Це що, риба?	uwow
+		Weakness. I will just find someone more worthy to carry me.	Слабкість. Я просто знайду когось гіднішого, хто мене понесе.	uwow
+		Well done. The barrier has lowered.	Чудово. Бар'єр знизився.	uwow
+		Who is this Ula'tek anyway?	Та хто взагалі цей Ула'тек?	uwow
+		Let us improve your lackluster protections.	Покращімо твій жалюгідний захист.	uwow
+		May my abundance rain down from the sky upon you.	Нехай мій достаток проллється на тебе дощем з небес.	uwow
+		You continue to prove my acolytes have gloriously exquisite taste.	Ти й далі доводиш, що мої аколіти мають чудовий, вишуканий смак.	uwow
+		You are fear. You is my food.	Ти — страх. Ти — моя їжа.	uwow
+		Grand Insect Poison!	Велика отрута комах!	uwow
+		Rip your throat.	Роздеру тобі горло.	uwow
+		Ooh, latex, gift rain down!	О, латекс, дари, ллийтеся дощем!	uwow
+		You are weak, weak.	Слабко, так слабко.	uwow
+		You leave now.	Іди геть.	uwow
+		I... I failed. I cannot...	Не вийшло... Я не можу...	uwow
+		Take all the time you need, Zutara. When you are ready, come to Silvermoon. Bring her home to us, please.	Не поспішай, Зутаро. Коли будеш готова, приходь до Срібного Місяця. Поверни її до нас, прошу.	uwow
+		Smolderon.	Смолдерон.	uwow
+		Paladash Melanori.	Паладаш Меланорі.	uwow
+		I must speak freely, Regent Lord. Blaming the Amani for Kith'ix is not a fair assessment.	Мушу говорити відверто, лорде-регенте. Звинувачувати амані в появі Кіт'їкса несправедливо.	uwow
+		Fair. The Amani summoned and killed the beast keeping Kith'ix at bay, and have allowed the Twilight's Blade to wake him.	Справедливо. Амані прикликали й убили звіра, що стримував Кіт'їкса, та дозволили Клинку Сутінок його розбудити.	uwow
+		Anything less than blame is an unearned charity.	Будь-що менше за звинувачення — незаслужена поблажливість.	uwow
+		With all due respect, Lor'themar, have you been reading my reports?	З належною повагою, Лор'темаре, ви взагалі читали мої звіти?	uwow
+		If you want to blame someone for Ula'tek, blame Zul'jan, or better even Malacrass, not the entire Amani tribe.	Якщо хочете звинуватити когось в Ула'теку — звинувачуйте Зул'джана чи, ще краще, Малакрасса, а не все плем'я амані.	uwow
+		Lest you forget, you rebuffed my petition for support troops for Zul'aman when I asked.	Якщо ви забули: ви відхилили моє прохання про допоміжні війська для Зул'аману.	uwow
+		If you had not, troops would have been in position when Kith'ix did rise, and more Amani would be alive to help us.	Якби не це, війська були б на місці, коли Кіт'їкс постав, і більше амані лишилося б живими, щоб допомогти нам.	uwow
+		Ula'tek was a threat contained to Zul'aman.	Ула'тек був загрозою, обмеженою Зул'аманом.	uwow
+		If the children of Ula'tek had overcome the Amani and spilled into Eversong, then I would have acted.	Якби діти Ула'тека здолали амані й вихлюпнулися в «Вічноспів», тоді я б діяв.	uwow
+		Their care was slumbering under Eversong all along. They are an imminent threat to our people.	Їхня опіка весь цей час дрімала під «Вічноспівом». Вони — неминуча загроза нашому народові.	uwow
+		That's the extent of your empathy. You only act if elven lives will be lost. Lor'themar, an entire civilization could have perished.	Ось і вся ваша співчутливість. Ви дієте, лише коли гинуть ельфи. Лор'темаре, могла загинути ціла цивілізація.	uwow
+		Liadrin, it does not matter if Zul'jarra has ingratiated herself with you. The Amani have killed so many, they do not deserve kindness.	Ліадрін, неважливо, що Зул'джарра здобула вашу прихильність. Амані вбили стільки людей, що не заслуговують на доброту.	uwow
+		Ha! Zul'jarra does not ingratiate herself to anyone. Did you also forget she aided us at the Sunwell? You have no excuse for your—	Ха! Зул'джарра ні до кого не підлещується. Ви також забули, що вона допомагала нам біля Сонячної Криниці? Вам немає виправдання за свою—	uwow
+		You have said your piece. I have heard it. You will not change my mind, and anything more you say is insubordination.	Ви все сказали. Це почуто. Мою думку ви не змінете, а все, що додасте, — непокора.	uwow
+		Fine. But I have faith in Zul'jarra. You will see what I mean about her and her people.	Гаразд. Але я вірю в Зул'джарру. Ви ще побачите, що я маю на увазі щодо неї та її народу.	uwow
+		Push through to help Lor'themar.	Пробийся, щоб допомогти Лор'темару.	uwow
+		Daxor!	Даксоре!	uwow
+		There, to the north. That chasm was not there before.	Он там, на півночі. Раніше тієї ущелини не було.	uwow
+		Then we have our goal in sight.	Тоді ціль перед нами.	uwow
+		Daxor died to give us a chance at victory. We must not squander it. Let's move.	Даксор загинув, щоб дати нам шанс на перемогу. Не змарнуймо його. Рушаймо.	uwow
+		Call on me again, I'll always hear you.	Звертайся до мене знову — я завжди тебе почую.	uwow
+		Tell Zul'jarra I miss her.	Скажи Зул'джаррі, що я сумую за нею.	uwow
+		I fly with Akil'zon.	Я лечу разом з Акіл'зоном.	uwow
+		You can always talk to me, Asha.	Ти завжди можеш поговорити зі мною, Ашо.	uwow
+		When I said I always speak for Akil'zon, I meant it.	Слова про те, що я завжди говорю від імені Акіл'зона, не були порожніми.	uwow
+		Let's do take a huggy good one.	Обіймімося як слід.	uwow
+		Don't you worry, child. I'm here to guide you.	Не хвилюйся, дитино. Я тут, щоб вести тебе.	uwow
+		Serenago again, my child.	Знову Серенаґо, дитино моя.	uwow
+		Hit me in the flesh. Oh, the spirit. Oh, whatever, I'm here for you.	Вдар мене по плоті. Ой, по духу. А, байдуже, я тут заради тебе.	uwow
+		Our Amani neighbors have warned us of some unsavory vile branch in the area. Tear them out.	Наші сусіди-амані попередили нас про якусь мерзенну гілку зла в цій місцевості. Вирви її з корінням.	uwow
+		To use Lynxes in such a manner. Neither the Farstriders nor the Amani will allow this to continue.	Використовувати рисів у такий спосіб... Ні Далекоходи, ні Амані не дозволять цьому тривати.	uwow
+		The remnants of the Twilight's Blade in the area have been acting up. Stop them.	Рештки Клинка Сутінків у цій місцевості розбурхалися. Зупини їх.	uwow
+		The sanctum here is a key research location for my people. Get rid of the intruders.	Святилище тут — ключове місце досліджень для мого народу. Позбався непроханих гостей.	uwow
+		We will send the Blood Knights to reclaim the area when they are able. Until then, we must stay vigilant.	Ми надішлемо Кривавих лицарів, щоб повернути цю землю, щойно вони зможуть. А доти ми мусимо лишатися пильними.	uwow
+		The rebel Amani here lash out at Silvermoon instead of the threats at large. They are no longer protected by their kinsman's treaty.	Бунтівні Амані тут нападають на Срібний Місяць замість справжніх загроз. Договір їхніх одноплемінників більше їх не захищає.	uwow
+		Perhaps one day we'll truly reach an accord with the Amani, and no more blood will need to be shed.	Можливо, колись ми справді дійдемо згоди з Амані, і більше не доведеться проливати кров.	uwow
+		A giant creature affected by the light bloom is dangerously close to my people. Give it a merciful death.	Велетенська істота, вражена цвітінням Світла, небезпечно близько до мого народу. Даруй їй милосердну смерть.	uwow
+		I am Darkness's bane!	Я — погибель Темряви!	uwow
+		Strike against the dark.	Вдар проти темряви.	uwow
+		With the strength of Nalorakk!	Із силою Налорака!	uwow
+		To death where you belong!	На смерть, де тобі й місце!	uwow
+		Jan'alai gives me the fire!	Джан'алай дарує мені вогонь!	uwow
+		Press ahead. We will keep the Amani off your back.	Рухайся вперед. Ми не пустимо Амані тобі в спину.	uwow
+		Then the Amani or their barrier cannot stand. I'll defer to our axe-swinging hatchet to clear the path.	Тоді Амані чи їхній бар'єр не встоять. Розчищати шлях я залишу нашому сокирнику.	uwow
+		We're not gonna make it easy for them either.	Ми теж не полегшимо їм завдання.	uwow
+		Ne'hide, ne'hide, anda ka numramoe, kepera, kezulo.	Ne'hide, ne'hide, anda ka numramoe, kepera, kezulo.	uwow
+		This is not the end. These sores will fuel our ambitions.	Це не кінець. Ці рани розпалять наші амбіції.	uwow
+		The ancient spirits of Amani will bend to my will.	Прадавні духи Амані скоряться моїй волі.	uwow
+		No! I cannot be stopped! You will bear witness to my ascension! I will claim the ascendant!	Ні! Мене не зупинити! Ви станете свідками мого піднесення! Я заберу вознесеного!	uwow
+		Pitiful display. You call yourself a hero?	Жалюгідне видовище. І ти називаєш себе героєм?	uwow
+		Kezulo, ne peran, numrakan, numradakaloa, vandakamo e kindojan, ni hede, ni bankele.	Kezulo, ne peran, numrakan, numradakaloa, vandakamo e kindojan, ni hede, ni bankele.	uwow
+		I, Zul'jarra, claim you as my thrall!	Я, Зул'джарра, оголошую тебе своїм $p(рабом:рабинею)!	uwow
+		A dance with your money is a dance with death!	Танок із твоїми грошима — це танок зі смертю!	uwow
+		You are no firebreath. You fight like my Amani. Take of the spoils of my chamber, and may the loa bless you.	Ти не з тих, хто дихає вогнем. Ти б'єшся, як мої Амані. Візьми здобич з моєї скарбниці, і хай лоа благословлять тебе.	uwow
+		Leave these sacred halls where some of your trespass. No longer!	Геть із цих священних залів, які ви сплюндрували! Більше — ніколи!	uwow
+		Your souls were unworthy.	Ваші душі були негідні.	uwow
+		Raise my speakers! Raise and show these heretics true Amani power!	Підніміться, мої мовці! Підніміться й покажіть цим єретикам справжню міць Амані!	uwow
+		Enough of this! Raise my people, and then!	Годі! Піднімайте мій народ, а тоді!	uwow
+		Who returns me to this world? The Horde! No.	Хто повертає мене в цей світ? Орда! Ні.	uwow
+		Whoever, the chosen of the Loa cannot be contained.	Хай там хто, обраного лоа не втримати.	uwow
+		The speaker of Anetheron. See if they can weather your storm.	Речник Анетерона. Побачимо, чи витримають вони твою бурю.	uwow
+		Curse be Halazzi! Chronicles from their flesh!	Проклятий будь Галаззі! Хроніки з їхньої плоті!	uwow
+		First, become San'layn. Cleanse the intruders with your Loa's roaring flame!	Спершу стань Сан'лейном. Очисти загарбників ревучим полум'ям свого лоа!	uwow
+		Crests become of Nalorakk! Show them your teeth and the lowest ferocity!	Нехай гребені стануть Налораковими! Покажи їм свої зуби й найпервіснішу лють!	uwow
+		End him now, or darkness prevails!	Убий його негайно, або запанує темрява!	uwow
+		Your evil must end! Forest Song! For the Amani!	Твоєму злу кінець! Лісова Пісня! За Амані!	uwow
+		Let me light the way. Let my light sustain them.	Дозволь мені освітити шлях. Нехай моє світло підтримає їх.	uwow
+		I cannot hold on! Kill him! Now!	Я не втримаюся! Убий його! Зараз же!	uwow
+		Light, provide us safety!	Світло, дай нам захист!	uwow
+		Ancient stolen hoards like this flow with rich abundance. Draw out the hoard's guardian and show them the error of their banditry.	Давні вкрадені скарби на кшталт цього сповнені розкішного достатку. Виклич охоронця скарбниці й покажи розбійникам їхню помилку.	uwow
+		Draw out the Abundance's hoard, and show them the error of their avarice!	Витягни скарб Достатку на світло й покажи їм хибність їхньої жадібності!	uwow
+		Long ago, the Amani used this chamber to bury their venerated dead.	Давним-давно Амані ховали в цій залі своїх шанованих покійних.	uwow
+		Check in with your uncle now and then, and tell Zul'jarra I'm with her always.	Провідуй іноді свого дядька й перекажи Зул'джаррі, що я завжди з нею.	uwow
+		Zorian is buried here. Oh, Shanbai, if I could only have made you see.	Тут похований Зоріан. О, Шанбай, якби ж мені вдалося змусити тебе прозріти.	uwow
+		The Hash'ura is at rest and his treasure is yours. But the spirit may need your help again, Hash'ura.	Хаш'ура спочиває, а його скарб — твій. Але дух, можливо, знову потребуватиме твоєї допомоги, Хаш'уро.	uwow
+		This sacred chamber is dedicated to King Doshanahashe. He was a great and powerful man.	Ця священна зала присвячена королю Дошанахаше. Він був великим і могутнім чоловіком.	uwow
+		Generalized followers of Shadowpine have a long legacy of fire-blooded shamans.	Послідовники Тіньососни мають довгу спадщину шаманів вогненної крові.	uwow
+		The greatest of the Ravens Tusk are buried here, like Norobu the Scar. He was a fierce warrior and great chieftain.	Тут поховані найвидатніші з Воронячого Бивня, як-от Норобу Шрам. Він був лютим воїном і великим вождем.	uwow
+		The cleverest with a bark I remembered in this chamber, a senator of Tanaan, a wily chief and betrayed by the Zandalari, is here.	Тут спочиває той, хто найвправніше володів словом, яке я пам'ятаю: сенатор Танаану, хитрий вождь, якого зрадили зандалари.	uwow
+		No, it ain't like the humble red and gold spires of Silvermoon, right?	Ні, це не схоже на скромні червоно-золоті шпилі Срібного Місяця, еге ж?	uwow
+		Sweet child, are your people bright and cheerful then? I didn't think so.	Любе дитя, то твій народ світлий і веселий? Щось не віриться.	uwow
+		They are here, a remnant of chaotic influence, nasty bugs.	Ось вони — залишок хаотичного впливу, бридкі комахи.	uwow
+		Here, the revenant, revere Nalorakk, the Lord of War.	Тут ревенанти вшановують Налорака, Володаря Війни.	uwow
+		Jan'alai, the majestic dragonhawk, exists in a cycle of death and rebirth.	Джан'алай, величний яструб-дракон, існує в колообігу смерті й відродження.	uwow
+		Many feared she would never return after her last death, but it was hope that won the day.	Багато хто боявся, що після останньої смерті вона не повернеться, але перемогла надія.	uwow
+		This chamber is dedicated to the great Loa of Victory, Achillon.	Ця зала присвячена великому лоа Перемоги, Ахіллону.	uwow
+		This is a monument to a great loa. But Dun Algaz is very precious to the Vilebranch in his own way.	Це пам'ятник великому лоа. Але Дун Альгаз по-своєму дуже дорогий племені Мерзенної Гілки.	uwow
+		One of the many defenses here. What goes down don't come back up again.	Один із численних захистів тут. Що йде вниз, угору вже не повертається.	uwow
+		All the guardian spirits you know is necromancers are raising the kin. They're not in the mood to entertain friends.	Усі духи-охоронці, яких ти знаєш, — це родичі, яких підіймають некроманти. Їм не до гостей.	uwow
+		In ancient times, we had a system of symbols, the meaning known only to us. I guess our secrets are still safe from the elves.	У давнину в нас була система символів, значення яких знали лише ми. Схоже, наші таємниці досі в безпеці від ельфів.	uwow
+		You know, if I was designing this place, I'd put treasure behind that waterfall.	Знаєш, якби це місце проєктувалося за моїм задумом, скарб лежав би за тим водоспадом.	uwow
+		I will guide you here, but the spirit asks that you choose your path.	Я проведу тебе сюди, але дух просить, щоб ти сам$p(:а) обра$p(в:ла) свій шлях.	uwow
+		This necromancer came from the reliquary. Tell the spirits that's where you want to go.	Цей некромант вийшов зі сховища реліквій. Скажи духам, що хочеш іти саме туди.	uwow
+		No, no, careful. Remember what I said now.	Ні, ні, обережно. Пам'ятай мої слова.	uwow
+		This be no time for wandering aimlessly, Asha.	Зараз не час блукати без мети, Ашо.	uwow
+		The spirits aren't ready for us yet. We'll come to that later.	Духи ще не готові до нас. Ми повернемося до цього пізніше.	uwow
+		Troll architecture is so dramatic.	Архітектура тролів така ефектна.	uwow
+		Skull faces, fearsome animals. Amani crypts are so foreboding.	Обличчя-черепи, страхітливі звірі. Склепи Амані такі зловісні.	uwow
+		Then let's squash them, or peck them to death in your case.	Тоді розчавімо їх — або заклюймо до смерті, як у твоєму випадку.	uwow
+		That would be very menacing, but I had a stuffed doll that looked just like it as a child.	Це було б дуже грізно, але в дитинстві в мене була м'яка лялька, достоту схожа на це.	uwow
+		Family of yours? I can see the resemblance.	Це твоя родина? Я бачу схожість.	uwow
+		Why are the spirits here attacking us? Do they not know we are trying to help?	Чому ці духи нападають на нас? Хіба вони не знають, що ми намагаємося допомогти?	uwow
+		These paintings are beautiful. We would call them primitive, I suppose, and hard to understand.	Ці малюнки прекрасні. Ми б назвали їх примітивними й важкими для розуміння, гадаю.	uwow
+		No matter. We've fought the Vilebranch before. Let's press on. Maybe we will find our guide inside.	Байдуже. Ми вже билися зі Скверногіллям. Ходімо далі. Можливо, всередині знайдемо нашого провідника.	uwow
+		Now we're locked in here with them. Fantastic.	Тепер ми замкнені тут разом із ними. Чудово.	uwow
+		You think you won? All the other souls we raised meant nothing. I can still claim the crypt's most powerful soul.	Думаєш, ти $p(переміг:перемогла)? Усі інші душі, яких ми підняли, нічого не значили. Я все ще можу заволодіти наймогутнішою душею цієї гробниці.	uwow
+		And when I do, Zul'Aman's hopes gonna fade when we fight, Hash'ey to Hash'ey.	А коли я це зроблю, надії Зул'Аману згаснуть, коли ми зійдемося в бою, Хаш'ї до Хаш'ї.	uwow
+		Kinduru was clearly shaken by the necromancer's threat.	Погроза некромантки явно вразила Кінду­ру.	uwow
+		We need to find her and put her down before she raises this King Da'ka.	Нам треба знайти її й упокоїти, поки вона не підняла цього Короля Да'ку.	uwow
+		Move away from the gust or they'll send you flying!	Відійди від пориву, інакше він тебе підкине в повітря!	uwow
+		Wake ye spirits to rise and roam! Tonight this street becomes your home! Ha ha ha ha ha ha ha ha ha!	Прокиньтесь, духи, ставайте й блукайте! Цієї ночі вулиця — ваш дім! Ха-ха-ха-ха-ха-ха-ха-ха-ха!	uwow
+		Not my spell! It should have froze!	Це не моє закляття! Воно мало заморозити!	uwow
+		Just the kind of man the Vilebranch would want to raise and use against us. Great.	Саме такого чоловіка Скверногілля й захотіло б підняти та обернути проти нас. Чудово.	uwow
+		Thanks for the warning. Let's hope the Vilebranch haven't raised one of them.	Дякую за попередження. Сподіваймося, Скверногілля не підняло когось із них.	uwow
+		Thank you for handling that so quickly. Zul'jarra will be pleased, Hash'ura.	Дякую, що так швидко впоралися. Зул'джарра буде задоволена, Хаш'ура.	uwow
+		The Zandalari killed an Amani leader? Huh. I hope there's a tablet around here about that.	Зандалари вбили лідера амані? Хм. Сподіваюся, десь тут є табличка про це.	uwow
+		Interesting. Now if I find him down here, we will have been introduced.	Цікаво. Якщо я знайду його тут, унизу, то ми вже будемо знайомі.	uwow
+		With rattling chains and eerie cheer, we bring the thrills of Hallow's End! Ha ha ha ha ha ha ha ha!	Із брязкотом кайданів і моторошним сміхом ми несемо вам трепет Хелловіну! Ха-ха-ха-ха-ха-ха-ха-ха!	uwow

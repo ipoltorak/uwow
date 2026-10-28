@@ -3,7 +3,7 @@
 Аддон для World of Warcraft (Retail, Midnight 12.x), що перекладає гру українською: квести, діалоги й субтитри NPC,
 імена, предмети, закляття з живими числами, таланти, досягнення, журнал підземель, колекції, мапу, інтерфейс.
 
-**Завантажити готовий аддон:** https://uwow.wearebob.dev · **Поточна версія:** 0.3.11
+**Завантажити готовий аддон:** https://uwow.wearebob.dev · **Поточна версія:** 0.3.12
 
 ## Що тут
 
@@ -25,21 +25,21 @@
 Змінні: `{p}` — ім'я гравця, `{c}` / `{c:форма}` — клас, `{r}` — раса, `{a}`, `{a1}` — аргументи, `{#}` / `{#N}` — числа,
 `$p(ч:ж)` — слово за статтю гравця.
 
-Усього рядків: 1,135,996 (з них з WowUkrainizer: 34,360).
+Усього рядків: 1,136,706 (з них з WowUkrainizer: 34,360).
 
 | файл | рядків |
 |---|---|
 | `translations/ach.tsv` | 27,600 |
 | `translations/collections.tsv` | 23,884 |
 | `translations/currency.tsv` | 1,831 |
-| `translations/dialog.tsv` | 96,096 |
+| `translations/dialog.tsv` | 96,794 |
 | `translations/faction.tsv` | 1,150 |
 | `translations/item.tsv` | 209,043 |
 | `translations/journal.tsv` | 31,079 |
 | `translations/mount.tsv` | 3,214 |
 | `translations/names.tsv` | 43,720 |
 | `translations/pet.tsv` | 4,247 |
-| `translations/quest.tsv` (×2 частини: `quest-01.tsv`…) | 162,723 |
+| `translations/quest.tsv` (×2 частини: `quest-01.tsv`…) | 162,735 |
 | `translations/questui.tsv` | 30,041 |
 | `translations/sdesc.tsv` | 152,392 |
 | `translations/spell.tsv` | 278,222 |

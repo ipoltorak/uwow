@@ -1,26 +1,26 @@
 {
- "version": "0.3.11",
+ "version": "0.3.12",
  "rows": {
   "ach": 27600,
   "collections": 23884,
   "currency": 1831,
-  "dialog": 96096,
+  "dialog": 96794,
   "faction": 1150,
   "item": 209043,
   "journal": 31079,
   "mount": 3214,
   "names": 43720,
   "pet": 4247,
-  "quest": 162723,
+  "quest": 162735,
   "questui": 30041,
   "sdesc": 152392,
   "spell": 278222,
   "ui": 70754
  },
- "ua_chars": 61834767,
+ "ua_chars": 61875404,
  "glossary": 55200,
  "sources": {
-  "uwow": 1101636,
+  "uwow": 1102346,
   "wowukrainizer": 34360
  }
 }
